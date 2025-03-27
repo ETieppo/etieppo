@@ -14,8 +14,8 @@
   <img align="center" alt="ETieppo-Flutter" height="65" width="65" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/flutter.png">
   <img align="center" alt="ETieppo-Nest.js" height="65" width="65" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/nest.png">
 </div>
-<br/>
-<h6 align="end">Other languages ​​I have developed with</h6>
+<br>
+<br>
 <div align="end">
   <img align="center" alt="ETieppo-Python" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/python.png">
   <img align="center" alt="ETieppo-c" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/c.png">
@@ -25,4 +25,4 @@
   <img align="center" alt="ETieppo-html" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/html.png">
   <img align="center" alt="ETieppo-c" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/lua.png">
 </div>
-
+<h4 align="end">Other languages</h4>
