@@ -1,5 +1,5 @@
 <div>
-    <h4>I work with</h4>
+    <h4>I recently worked with</h4>
     <img align="center" alt="ETieppo-nodejs" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/nodejs.png">
     <img align="center" alt="ETieppo-nextjs" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/nextjs.png">
     <img align="center" alt="ETieppo-tailwind" height="35" whidth="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/tailwind.png">
