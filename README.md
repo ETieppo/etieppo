@@ -1,13 +1,13 @@
 <div>
     <h4>Use at work</h4>
+    <img align="center" alt="ETieppo-postgres" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/pg.png">
     <img align="center" alt="ETieppo-tailwind" height="35" whidth="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/tailwind.png">
     <img align="center" alt="ETieppo-react" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/react.png">
-    <img align="center" alt="ETieppo-Next.js" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/nextjs.png">
-    <img align="center" alt="ETieppo-Nest.js" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/nest.png">
     <img align="center" alt="ETieppo-Flutter" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/flutter.png">
     <img align="center" alt="ETieppo-Python" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/ruby.png">
     <img align="center" alt="ETieppo-git" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/git.png">
-    <img align="center" alt="ETieppo-postgres" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/pg.png">
+    <img align="center" alt="ETieppo-Nest.js" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/nest.png">
+    <img align="center" alt="ETieppo-Next.js" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/nextjs.png">
 </div>
 <br/>
 <div align="center">
