@@ -4,7 +4,6 @@
     <img align="center" alt="ETieppo-tailwind" height="35" whidth="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/tailwind.png">
     <img align="center" alt="ETieppo-react" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/react.png">
     <img align="center" alt="ETieppo-Flutter" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/flutter.png">
-    <img align="center" alt="ETieppo-Python" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/ruby.png">
     <img align="center" alt="ETieppo-git" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/git.png">
     <img align="center" alt="ETieppo-Nest.js" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/nest.png">
     <img align="center" alt="ETieppo-Next.js" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/nextjs.png">
@@ -23,6 +22,7 @@
 <br>
 <br>
 <div align="end">
+  <img align="center" alt="ETieppo-Python" height="35" width="35" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/ruby.png">
   <img align="center" alt="ETieppo-c" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/c.png">
   <img align="center" alt="ETieppo-java" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/java.png">
   <img align="center" alt="ETieppo-python" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/py.png">
