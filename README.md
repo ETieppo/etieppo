@@ -10,7 +10,7 @@
 </div>
 <br/>
 <div align="center">
-    <h1><span>MINE TARGET</span>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;HARD SKILLS</h1>
+    <h1>HARD SKILLS</h1>
     <img align="center" alt="ETieppo-rust" height="55" width="55" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/rust.png">
     &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="ETieppo-typescript" height="45" width="45" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/typescript.png">
