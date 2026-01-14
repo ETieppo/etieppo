@@ -22,6 +22,5 @@
   <img align="center" alt="ETieppo-Python" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/ruby.png">
   <img align="center" alt="ETieppo-c" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/c.png">
   <img align="center" alt="ETieppo-java" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/java.png">
-  <img align="center" alt="ETieppo-python" height="25" width="25" src="https://github.com/ETieppo/ETieppo/blob/main/imgs/py.png">
   <h4 align="end">I've already seen</h4>
 </div>
