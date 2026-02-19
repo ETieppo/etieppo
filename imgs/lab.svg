@@ -388,7 +388,7 @@
     <path id="p_tube2_R" d="M683 392 C695 360,701 338,700 305 L700 155 L700 105" />
   </defs>
 
-  <rect class="bg" x="0" y="0" width="900" height="520"/>
+  
 
   <rect x="0" y="440" width="900" height="80" fill="url(#tableGlow)" opacity="0.5">
     <animate attributeName="opacity" values="0.3;0.7;0.3" dur="6s" repeatCount="indefinite" />
