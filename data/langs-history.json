@@ -1,10 +1,5 @@
 {
   "langs": {
-    "batchfile": {
-      "rank": 23,
-      "previous_rank": 18,
-      "since_unix": 1792607987
-    },
     "c": {
       "rank": 6,
       "previous_rank": 4,
@@ -31,9 +26,9 @@
       "since_unix": 1792607987
     },
     "glsl": {
-      "rank": 16,
-      "previous_rank": 12,
-      "since_unix": 1792607987
+      "rank": 15,
+      "previous_rank": 16,
+      "since_unix": 1792608826
     },
     "html": {
       "rank": 8,
@@ -41,14 +36,14 @@
       "since_unix": 1792607987
     },
     "java": {
-      "rank": 19,
-      "previous_rank": 15,
-      "since_unix": 1792607987
+      "rank": 18,
+      "previous_rank": 19,
+      "since_unix": 1792608826
     },
     "kotlin": {
-      "rank": 24,
-      "previous_rank": 19,
-      "since_unix": 1792607987
+      "rank": 22,
+      "previous_rank": 24,
+      "since_unix": 1792608826
     },
     "lua": {
       "rank": 3,
@@ -56,27 +51,17 @@
       "since_unix": 1792601632
     },
     "makefile": {
-      "rank": 22,
-      "previous_rank": 17,
-      "since_unix": 1792607987
+      "rank": 21,
+      "previous_rank": 22,
+      "since_unix": 1792608826
     },
     "php": {
-      "rank": 18,
-      "previous_rank": 14,
-      "since_unix": 1792607987
-    },
-    "powershell": {
-      "rank": 13,
-      "previous_rank": 10,
-      "since_unix": 1792607987
+      "rank": 17,
+      "previous_rank": 18,
+      "since_unix": 1792608826
     },
     "qml": {
       "rank": 4,
-      "previous_rank": null,
-      "since_unix": 1792607987
-    },
-    "renderscript": {
-      "rank": 25,
       "previous_rank": null,
       "since_unix": 1792607987
     },
@@ -86,9 +71,9 @@
       "since_unix": 1792601632
     },
     "scss": {
-      "rank": 15,
-      "previous_rank": null,
-      "since_unix": 1792607987
+      "rank": 14,
+      "previous_rank": 15,
+      "since_unix": 1792608826
     },
     "shell": {
       "rank": 7,
@@ -96,19 +81,19 @@
       "since_unix": 1792607987
     },
     "swift": {
-      "rank": 21,
-      "previous_rank": null,
-      "since_unix": 1792607987
+      "rank": 20,
+      "previous_rank": 21,
+      "since_unix": 1792608826
     },
     "tree_sitter_query": {
-      "rank": 17,
-      "previous_rank": 13,
-      "since_unix": 1792607987
+      "rank": 16,
+      "previous_rank": 17,
+      "since_unix": 1792608826
     },
     "twig": {
-      "rank": 20,
-      "previous_rank": 16,
-      "since_unix": 1792607987
+      "rank": 19,
+      "previous_rank": 20,
+      "since_unix": 1792608826
     },
     "typescript": {
       "rank": 2,
@@ -121,9 +106,9 @@
       "since_unix": 1792607987
     },
     "zig": {
-      "rank": 14,
-      "previous_rank": 11,
-      "since_unix": 1792607987
+      "rank": 13,
+      "previous_rank": 14,
+      "since_unix": 1792608826
     }
   }
 }
