@@ -103,29 +103,6 @@
     <circle id="bubbleBase" cx="0" cy="0" r="17" fill="none" stroke="none" />
 
     
-          <g id="icon_c">
-            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="rgba(85,175,235,0.95)" d="M16.5921 9.1962s-.354-3.298-3.627-3.39c-3.2741-.09-4.9552 2.474-4.9552 6.14 0 3.6651 1.858 6.5972 5.0451 6.5972 3.184 0 3.5381-3.665 3.5381-3.665l6.1041.365s.36 3.31-2.196 5.836c-2.552 2.5241-5.6901 2.9371-7.8762 2.9201-2.19-.017-5.2261.034-8.1602-2.97-2.938-3.0101-3.436-5.9302-3.436-8.8002 0-2.8701.556-6.6702 4.047-9.5502C7.444.72 9.849 0 12.254 0c10.0422 0 10.7172 9.2602 10.7172 9.2602z"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_c">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="15" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_c">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_c"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_c"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">52.73%</text>
-          </g>
-        
-
           <g id="icon_lua">
             <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="rgba(0,120,255,0.95)" d="m.38 10.377-.272-.037c-.048.344-.082.695-.101 1.041l.275.016c.018-.34.051-.682.098-1.02zm3.756-7.088-.184-.205c-.258.232-.509.48-.746.734l.202.188c.231-.248.476-.49.728-.717zm1.633-1.23-.146-.235c-.296.186-.586.385-.863.594l.166.219c.27-.203.554-.399.843-.578zm-3.945 16.31c.185.297.384.586.593.863l.22-.164a11.668 11.668 0 0 1-.58-.844l-.233.145zm-.697-1.967-.255.104c.129.318.274.635.431.943l.005.01.245-.125-.005-.01a11.931 11.931 0 0 1-.421-.922zM.298 9.309l.269.063c.076-.332.168-.664.272-.986l-.261-.087c-.108.332-.202.672-.28 1.01zM.274 12.42l-.275.01c.012.348.04.699.083 1.043l.273-.033c-.042-.336-.069-.68-.081-1.02zm-.018 2.086c.073.34.162.682.264 1.014l.263-.08c-.1-.326-.187-.658-.258-.99l-.269.056zM11.573.275 11.563 0c-.348.012-.699.039-1.044.082l.034.273c.338-.041.68-.068 1.02-.08zm11.648 8.291c.1.326.186.66.256.992l.27-.059c-.072-.34-.16-.682-.262-1.014l-.264.081zm-5.6-7.177a11.849 11.849 0 0 0-.947-.449l-.107.252c.314.133.625.281.926.439l.128-.242zM15.693.572c-.332-.105-.67-.199-1.01-.277l-.063.268c.332.076.664.168.988.273l.085-.264zm-9.019.973c.298-.15.606-.291.916-.418L7.486.873c-.317.127-.632.272-.937.428l-.015.008.125.244.015-.008zm17.053 10.043.275-.01a11.797 11.797 0 0 0-.082-1.045l-.273.033c.041.338.068.682.08 1.022zM13.654.105c-.346-.047-.696-.08-1.043-.098l-.014.273c.339.018.683.051 1.019.098l.038-.273zm-4.11.422-.058-.27c-.34.072-.681.16-1.014.264l.081.262c.325-.099.659-.185.991-.256zM1.921 5.469l.231.15c.185-.285.384-.566.592-.834l-.217-.17c-.213.276-.417.563-.606.854zM.943 7.318l.253.107c.132-.313.28-.625.439-.924l-.243-.128c-.163.307-.314.625-.449.945zm17.28 14.625.145.234c.295-.186.586-.385.863-.594l-.164-.219c-.272.204-.557.4-.844.579zm3.025-2.724.217.17c.215-.273.418-.561.607-.854l-.23-.148c-.186.285-.385.564-.594.832zm-1.393 1.496.184.203c.258-.23.51-.479.746-.732l-.201-.188c-.23.248-.477.488-.729.717zm2.504-3.211.244.129c.162-.307.314-.625.449-.945l-.254-.107a11.27 11.27 0 0 1-.439.923zm1.258-3.875.273.039c.049-.346.082-.695.102-1.043l-.275-.014a11.24 11.24 0 0 1-.1 1.018zm-.461 1.992.264.086c.107-.332.201-.67.279-1.01l-.268-.063c-.077.333-.169.665-.275.987zm-.703-8.949c.154.303.297.617.424.932l.256-.104a12.027 12.027 0 0 0-.436-.953l-.244.125zM8.296 23.418c.331.107.67.201 1.009.279l.062-.268a11.604 11.604 0 0 1-.986-.273l-.085.262zm2.039.471c.345.049.696.082 1.043.102l.014-.275a12.027 12.027 0 0 1-1.019-.098l-.038.271zm6.991-1.44c-.303.154-.613.297-.926.424l.104.256c.318-.131.639-.275.947-.434l.004-.002-.123-.246-.006.002zm-12.713-.982c.274.213.562.418.854.605l.149-.23a12.18 12.18 0 0 1-.833-.592l-.17.217zm7.804 2.258.009.275a12.61 12.61 0 0 0 1.045-.084l-.035-.271c-.336.041-.68.068-1.019.08zM6.37 22.604c.307.162.625.314.946.449l.107-.254a11.646 11.646 0 0 1-.924-.439l-.129.244zm-3.287-2.563c.233.258.48.51.734.746l.188-.201c-.249-.23-.49-.477-.717-.729l-.205.184zm11.362 3.434.059.27a12 12 0 0 0 1.014-.266l-.082-.262c-.325.099-.659.185-.991.258zM21.18.129a2.689 2.689 0 1 0 0 5.378 2.689 2.689 0 1 0 0-5.378zm-5.856 15.318c0 .471.314.66.852.66.67 0 1.297-.396 1.297-1.016v-.645c-.23.107-.379.141-1.107.24-.735.109-1.042.306-1.042.761zM12 2.818a9.18 9.18 0 0 0-9.18 9.18A9.18 9.18 0 1 0 12 2.818zm-2.487 13.77H5.771v-6.023h.769v5.346h2.974v.677zm4.13 0h-.619v-.67c-.405.57-.811.793-1.446.793-.843 0-1.38-.463-1.38-1.182v-3.271h.686v3c0 .52.347.85.893.85.719 0 1.181-.578 1.181-1.461v-2.389h.686v4.33zm-.53-8.393a2.69 2.69 0 1 1 5.375.001 2.69 2.69 0 0 1-5.375-.001zm5.567 7.856v.52c-.223.059-.33.074-.471.074a.73.73 0 0 1-.711-.57 2.025 2.025 0 0 1-1.471.637c-.877 0-1.422-.463-1.422-1.248 0-.527.256-.916.76-1.123.266-.107.414-.141 1.389-.264.545-.066.719-.191.719-.48v-.182c0-.412-.348-.645-.967-.645-.645 0-.957.24-1.016.77h-.693c.041-1 .686-1.404 1.734-1.404 1.066 0 1.627.412 1.627 1.182v2.412c0 .215.133.338.373.338.041-.002.074-.002.149-.017z"/></svg></g>
           </g>
@@ -133,7 +110,7 @@
           <g id="bubbleBar_lua">
             <rect x="-14" y="10" width="28" height="4" rx="2"
                   fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="6" height="4" rx="2"
+            <rect x="-14" y="10" width="12" height="4" rx="2"
                   fill="rgba(0,245,255,0.95)"/>
           </g>
 
@@ -145,7 +122,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_lua"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">20.42%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">42.21%</text>
           </g>
         
 
@@ -156,7 +133,7 @@
           <g id="bubbleBar_rust">
             <rect x="-14" y="10" width="28" height="4" rx="2"
                   fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="5" height="4" rx="2"
+            <rect x="-14" y="10" width="10" height="4" rx="2"
                   fill="rgba(0,245,255,0.95)"/>
           </g>
 
@@ -168,7 +145,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_rust"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">17.18%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">35.30%</text>
           </g>
         
 
@@ -179,7 +156,7 @@
           <g id="bubbleBar_typescript">
             <rect x="-14" y="10" width="28" height="4" rx="2"
                   fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="1" height="4" rx="2"
+            <rect x="-14" y="10" width="3" height="4" rx="2"
                   fill="rgba(0,245,255,0.95)"/>
           </g>
 
@@ -191,7 +168,30 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_typescript"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">4.39%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">9.01%</text>
+          </g>
+        
+
+          <g id="icon_c">
+            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="rgba(85,175,235,0.95)" d="M16.5921 9.1962s-.354-3.298-3.627-3.39c-3.2741-.09-4.9552 2.474-4.9552 6.14 0 3.6651 1.858 6.5972 5.0451 6.5972 3.184 0 3.5381-3.665 3.5381-3.665l6.1041.365s.36 3.31-2.196 5.836c-2.552 2.5241-5.6901 2.9371-7.8762 2.9201-2.19-.017-5.2261.034-8.1602-2.97-2.938-3.0101-3.436-5.9302-3.436-8.8002 0-2.8701.556-6.6702 4.047-9.5502C7.444.72 9.849 0 12.254 0c10.0422 0 10.7172 9.2602 10.7172 9.2602z"/></svg></g>
+          </g>
+
+          <g id="bubbleBar_c">
+            <rect x="-14" y="10" width="28" height="4" rx="2"
+                  fill="rgba(0,245,255,0.25)"/>
+            <rect x="-14" y="10" width="1" height="4" rx="2"
+                  fill="rgba(0,245,255,0.95)"/>
+          </g>
+
+          <g id="bubble_c">
+            <use href="#bubbleBase"/>
+            <g transform="translate(0,-6) scale(0.95)">
+              <use href="#icon_c"/>
+            </g>
+            <g transform="translate(0,6)">
+              <use href="#bubbleBar_c"/>
+            </g>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">4.25%</text>
           </g>
         
 
@@ -202,7 +202,7 @@
           <g id="bubbleBar_shell">
             <rect x="-14" y="10" width="28" height="4" rx="2"
                   fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="0" height="4" rx="2"
+            <rect x="-14" y="10" width="1" height="4" rx="2"
                   fill="rgba(0,245,255,0.95)"/>
           </g>
 
@@ -214,7 +214,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_shell"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.57%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">3.24%</text>
           </g>
         
 
@@ -237,7 +237,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_c__"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.90%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.18%</text>
           </g>
         
 
@@ -283,30 +283,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_vim_script"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.56%</text>
-          </g>
-        
-
-          <g id="icon_cmake">
-            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="rgba(255,120,90,0.95)" d="M11.769.066L.067 23.206l12.76-10.843zM23.207 23.934L7.471 17.587 0 23.934zM24 23.736L12.298.463l1.719 19.24zM12.893 12.959l-5.025 4.298 5.62 2.248z"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_cmake">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="0" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_cmake">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_cmake"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_cmake"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.55%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.16%</text>
           </g>
         
 
@@ -329,7 +306,30 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_dart"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.51%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.05%</text>
+          </g>
+        
+
+          <g id="icon_cmake">
+            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="rgba(255,120,90,0.95)" d="M11.769.066L.067 23.206l12.76-10.843zM23.207 23.934L7.471 17.587 0 23.934zM24 23.736L12.298.463l1.719 19.24zM12.893 12.959l-5.025 4.298 5.62 2.248z"/></svg></g>
+          </g>
+
+          <g id="bubbleBar_cmake">
+            <rect x="-14" y="10" width="28" height="4" rx="2"
+                  fill="rgba(0,245,255,0.25)"/>
+            <rect x="-14" y="10" width="0" height="4" rx="2"
+                  fill="rgba(0,245,255,0.95)"/>
+          </g>
+
+          <g id="bubble_cmake">
+            <use href="#bubbleBase"/>
+            <g transform="translate(0,-6) scale(0.95)">
+              <use href="#icon_cmake"/>
+            </g>
+            <g transform="translate(0,6)">
+              <use href="#bubbleBar_cmake"/>
+            </g>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.97%</text>
           </g>
         
 
@@ -352,7 +352,53 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_powershell"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.33%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.69%</text>
+          </g>
+        
+
+          <g id="icon_glsl">
+            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#ab47bc" d="M10.469 17.102a4.083 4.083 0 1 1-8.166 0 4.083 4.083 0 0 1 8.166 0m5.069-9.666a4.083 4.083 0 1 0-5.446 3.296c3.13 1.231 3.867 2.474 3.475 5.828a4.083 4.083 0 1 0 5.446-3.295c-3.13-1.232-3.869-2.475-3.475-5.829"/></svg></g>
+          </g>
+
+          <g id="bubbleBar_glsl">
+            <rect x="-14" y="10" width="28" height="4" rx="2"
+                  fill="rgba(0,245,255,0.25)"/>
+            <rect x="-14" y="10" width="0" height="4" rx="2"
+                  fill="rgba(0,245,255,0.95)"/>
+          </g>
+
+          <g id="bubble_glsl">
+            <use href="#bubbleBase"/>
+            <g transform="translate(0,-6) scale(0.95)">
+              <use href="#icon_glsl"/>
+            </g>
+            <g transform="translate(0,6)">
+              <use href="#bubbleBar_glsl"/>
+            </g>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.34%</text>
+          </g>
+        
+
+          <g id="icon_tree_sitter_query">
+            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#f44336" d="M5.11 21.186 9.887 7.303 8.945 5.11H7.407V2.813h2.296c.483 0 .896.299 1.068.724l6.58 15.353h1.539v2.296h-2.297a1.14 1.14 0 0 1-1.068-.735L11.231 10.45 7.544 21.186z"/></svg></g>
+          </g>
+
+          <g id="bubbleBar_tree_sitter_query">
+            <rect x="-14" y="10" width="28" height="4" rx="2"
+                  fill="rgba(0,245,255,0.25)"/>
+            <rect x="-14" y="10" width="0" height="4" rx="2"
+                  fill="rgba(0,245,255,0.95)"/>
+          </g>
+
+          <g id="bubble_tree_sitter_query">
+            <use href="#bubbleBase"/>
+            <g transform="translate(0,-6) scale(0.95)">
+              <use href="#icon_tree_sitter_query"/>
+            </g>
+            <g transform="translate(0,6)">
+              <use href="#bubbleBar_tree_sitter_query"/>
+            </g>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.31%</text>
           </g>
         
 
@@ -382,76 +428,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_java"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.19%</text>
-          </g>
-        
-
-          <g id="icon_glsl">
-            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#ab47bc" d="M10.469 17.102a4.083 4.083 0 1 1-8.166 0 4.083 4.083 0 0 1 8.166 0m5.069-9.666a4.083 4.083 0 1 0-5.446 3.296c3.13 1.231 3.867 2.474 3.475 5.828a4.083 4.083 0 1 0 5.446-3.295c-3.13-1.232-3.869-2.475-3.475-5.829"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_glsl">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="0" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_glsl">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_glsl"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_glsl"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.16%</text>
-          </g>
-        
-
-          <g id="icon_tree_sitter_query">
-            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#f44336" d="M5.11 21.186 9.887 7.303 8.945 5.11H7.407V2.813h2.296c.483 0 .896.299 1.068.724l6.58 15.353h1.539v2.296h-2.297a1.14 1.14 0 0 1-1.068-.735L11.231 10.45 7.544 21.186z"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_tree_sitter_query">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="0" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_tree_sitter_query">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_tree_sitter_query"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_tree_sitter_query"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.15%</text>
-          </g>
-        
-
-          <g id="icon_python">
-            <g transform="scale(0.82) translate(-12,-4)"><svg xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><defs><linearGradient id="icon_python_a" x1="-133.268" y1="-202.91" x2="-133.198" y2="-202.84" gradientTransform="translate(25243.061 38519.17) scale(189.38 189.81)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#387eb8"/><stop offset="1" stop-color="#366994"/></linearGradient><linearGradient id="icon_python_b" x1="-133.575" y1="-203.203" x2="-133.495" y2="-203.133" gradientTransform="translate(25309.061 38583.42) scale(189.38 189.81)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffe052"/><stop offset="1" stop-color="#ffc331"/></linearGradient></defs><title>file_type_python</title><path d="M15.885,2.1c-7.1,0-6.651,3.07-6.651,3.07V8.36h6.752v1H6.545S2,8.8,2,16.005s4.013,6.912,4.013,6.912H8.33V19.556s-.13-4.013,3.9-4.013h6.762s3.772.06,3.772-3.652V5.8s.572-3.712-6.842-3.712h0ZM12.153,4.237a1.214,1.214,0,1,1-1.183,1.244v-.02a1.214,1.214,0,0,1,1.214-1.214h0Z" style="fill:url(#icon_python_a)"/><path d="M16.085,29.91c7.1,0,6.651-3.08,6.651-3.08V23.65H15.985v-1h9.47S30,23.158,30,15.995s-4.013-6.912-4.013-6.912H23.64V12.4s.13,4.013-3.9,4.013H12.975S9.2,16.356,9.2,20.068V26.2s-.572,3.712,6.842,3.712h.04Zm3.732-2.147A1.214,1.214,0,1,1,21,26.519v.03a1.214,1.214,0,0,1-1.214,1.214h.03Z" style="fill:url(#icon_python_b)"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_python">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="0" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_python">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_python"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_python"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.12%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.25%</text>
           </g>
         
 
@@ -474,56 +451,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_makefile"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.11%</text>
-          </g>
-        
-
-          <g id="icon_zig">
-            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="rgba(246,184,60,0.95)" d="m23.53 1.02-7.686 3.45h-7.06l-2.98 3.452h7.173L.47 22.98l7.681-3.607h7.065v-.002l2.978-3.45-7.148-.001 12.482-14.9zM0 4.47v14.901h1.883l2.98-3.45H3.451v-8h.942l2.824-3.45H0zm22.117 0-2.98 3.608h1.412v7.844h-.942l-2.98 3.45H24V4.47h-1.883z"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_zig">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="0" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_zig">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_zig"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_zig"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.10%</text>
-          </g>
-        
-
-          <g id="icon_go">
-            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill-rule="evenodd" clip-rule="evenodd" d="M18.1177 14.0442C17.7408 14.1497 17.3586 14.2566 16.9162 14.3768C16.7001 14.438 16.6509 14.4519 16.4498 14.2074C16.2086 13.9194 16.0317 13.7331 15.6939 13.5636C14.6807 13.0384 13.6996 13.1909 12.7829 13.8178C11.6893 14.5632 11.1264 15.6644 11.1425 17.0367C11.1585 18.3921 12.0431 19.5103 13.3137 19.6966C14.4073 19.8491 15.324 19.4425 16.0477 18.5785C16.1924 18.3922 16.3212 18.1887 16.482 17.9516H13.378C13.0402 17.9516 12.9598 17.7314 13.0724 17.4433C13.2815 16.9181 13.6675 16.0372 13.8926 15.5967C13.9409 15.495 14.0535 15.3256 14.2947 15.3256H19.4702C19.7027 14.5496 20.0799 13.8164 20.5831 13.1226C21.7572 11.4961 23.1725 10.649 25.0863 10.2933C26.7268 9.9883 28.2707 10.1577 29.6699 11.1573C30.9405 12.0722 31.7285 13.3089 31.9376 14.9354C32.211 17.2225 31.5838 19.0862 30.0881 20.6787C29.0266 21.8138 27.7239 22.5254 26.2282 22.8473C25.9429 22.9029 25.6576 22.9293 25.3768 22.9553C25.2303 22.9689 25.085 22.9823 24.9416 22.9998C23.478 22.9659 22.1432 22.5254 21.0173 21.5089C20.2256 20.7879 19.6803 19.9019 19.4092 18.8705C19.2211 19.2707 18.9962 19.6539 18.7336 20.0185C17.5756 21.628 16.0638 22.6276 14.15 22.8987C12.5738 23.1189 11.1103 22.797 9.82366 21.7805C8.63353 20.8317 7.95805 19.578 7.78114 18.0194C7.57206 16.1727 8.08671 14.5124 9.14818 13.0554C10.2901 11.4798 11.8019 10.4802 13.6514 10.1244C15.1632 9.8364 16.6106 10.0228 17.9134 10.9546C18.7657 11.5475 19.3769 12.3608 19.779 13.3434C19.8755 13.4959 19.8111 13.5806 19.6181 13.6314C19.0545 13.7822 18.5903 13.9121 18.1177 14.0442ZM28.7581 15.974C28.7613 16.0309 28.7646 16.0909 28.7693 16.1552C28.6889 17.6122 27.9973 18.6965 26.7268 19.3911C25.8744 19.8485 24.9898 19.8994 24.1053 19.4928C22.9473 18.9506 22.3361 17.6122 22.6256 16.2907C22.9795 14.6982 23.9444 13.6986 25.4401 13.3428C26.968 12.9701 28.4316 13.9188 28.7211 15.5961C28.7438 15.7161 28.7505 15.836 28.7581 15.974Z" fill="#00ACD7"/>
-<path d="M2.44461 13.8517C2.41244 13.9025 2.42852 13.9364 2.49285 13.9364L7.2826 13.9534C7.33085 13.9534 7.41126 13.9025 7.44343 13.8517L7.71684 13.4112C7.749 13.3604 7.73292 13.3096 7.66859 13.3096H2.95926C2.89493 13.3096 2.81451 13.3435 2.78235 13.3943L2.44461 13.8517Z" fill="#00ACD7"/>
-<path d="M0.0160829 15.4103C-0.0160829 15.4611 7.45058e-09 15.495 0.0643316 15.495L6.63928 15.4781C6.70361 15.4781 6.76794 15.4442 6.78402 15.3764L6.91269 14.9698C6.92877 14.919 6.8966 14.8682 6.83227 14.8682H0.530735C0.466404 14.8682 0.385989 14.902 0.353823 14.9529L0.0160829 15.4103Z" fill="#00ACD7"/>
-<path d="M3.90813 16.9521C3.87596 17.0029 3.89204 17.0537 3.95638 17.0537L6.43019 17.0707C6.47843 17.0707 6.54277 17.0199 6.54277 16.9521L6.57493 16.5455C6.57493 16.4777 6.54277 16.4269 6.47843 16.4269H4.29412C4.22978 16.4269 4.16545 16.4777 4.13329 16.5285L3.90813 16.9521Z" fill="#00ACD7"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_go">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="0" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_go">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_go"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_go"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.02%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.03%</text>
           </g>
         
 
@@ -546,7 +474,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_batchfile"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.00%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.01%</text>
           </g>
         
 
@@ -569,7 +497,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_kotlin"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.00%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.01%</text>
           </g>
         
 
@@ -600,34 +528,17 @@
   
           <g class="bubble">
             <g>
-              <use href="#bubble_c"/>
-              <animateTransform attributeName="transform" type="scale"
-                values="0.88;1.12;1.12" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="0.0s"/>
-            </g>
-            <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="0.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="0.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_flask_C"/>
-            </animateMotion>
-          </g>
-        
-
-          <g class="bubble">
-            <g>
               <use href="#bubble_lua"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.90;1.16;1.16" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="1.5s"/>
+                values="0.88;1.12;1.12" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="0.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="1.5s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="1.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_tube1_C"/>
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="0.0s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="0.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_flask_C"/>
             </animateMotion>
           </g>
         
@@ -636,15 +547,15 @@
             <g>
               <use href="#bubble_rust"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.86;1.10;1.10" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="3.0s"/>
+                values="0.90;1.16;1.16" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="1.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="3.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="3.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_tube2_C"/>
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="1.5s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="1.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_tube1_C"/>
             </animateMotion>
           </g>
         
@@ -653,14 +564,31 @@
             <g>
               <use href="#bubble_typescript"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.92;1.18;1.18" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="4.5s"/>
+                values="0.86;1.10;1.10" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="3.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="4.5s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="4.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="3.0s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="3.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_tube2_C"/>
+            </animateMotion>
+          </g>
+        
+
+          <g class="bubble">
+            <g>
+              <use href="#bubble_c"/>
+              <animateTransform attributeName="transform" type="scale"
+                values="0.92;1.18;1.18" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="4.5s"/>
+            </g>
+            <animate attributeName="opacity"
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="4.5s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="4.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
               <mpath href="#p_flask_L"/>
             </animateMotion>
           </g>
@@ -670,14 +598,14 @@
             <g>
               <use href="#bubble_shell"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.87;1.14;1.14" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="6.0s"/>
+                values="0.87;1.14;1.14" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="6.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="6.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="6.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="6.0s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="6.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
               <mpath href="#p_tube1_L"/>
             </animateMotion>
           </g>
@@ -687,14 +615,14 @@
             <g>
               <use href="#bubble_c__"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.91;1.08;1.08" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="7.5s"/>
+                values="0.91;1.08;1.08" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="7.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="7.5s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="7.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="7.5s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="7.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
               <mpath href="#p_tube2_L"/>
             </animateMotion>
           </g>
@@ -704,32 +632,15 @@
             <g>
               <use href="#bubble_vim_script"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.89;1.20;1.20" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="9.0s"/>
+                values="0.89;1.20;1.20" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="9.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="9.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="9.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="9.0s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="9.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
               <mpath href="#p_flask_R"/>
-            </animateMotion>
-          </g>
-        
-
-          <g class="bubble">
-            <g>
-              <use href="#bubble_cmake"/>
-              <animateTransform attributeName="transform" type="scale"
-                values="0.85;1.11;1.11" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="10.5s"/>
-            </g>
-            <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="10.5s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="10.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_tube1_R"/>
             </animateMotion>
           </g>
         
@@ -738,14 +649,31 @@
             <g>
               <use href="#bubble_dart"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.93;1.15;1.15" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="12.0s"/>
+                values="0.85;1.11;1.11" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="10.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="12.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="12.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="10.5s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="10.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_tube1_R"/>
+            </animateMotion>
+          </g>
+        
+
+          <g class="bubble">
+            <g>
+              <use href="#bubble_cmake"/>
+              <animateTransform attributeName="transform" type="scale"
+                values="0.93;1.15;1.15" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="12.0s"/>
+            </g>
+            <animate attributeName="opacity"
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="12.0s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="12.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
               <mpath href="#p_tube2_R"/>
             </animateMotion>
           </g>
@@ -755,32 +683,15 @@
             <g>
               <use href="#bubble_powershell"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.88;1.13;1.13" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="13.5s"/>
+                values="0.88;1.13;1.13" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="13.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="13.5s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="13.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="13.5s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="13.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
               <mpath href="#p_flask_C"/>
-            </animateMotion>
-          </g>
-        
-
-          <g class="bubble">
-            <g>
-              <use href="#bubble_java"/>
-              <animateTransform attributeName="transform" type="scale"
-                values="0.90;1.17;1.17" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="15.0s"/>
-            </g>
-            <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="15.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="15.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_tube1_C"/>
             </animateMotion>
           </g>
         
@@ -789,15 +700,15 @@
             <g>
               <use href="#bubble_glsl"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.88;1.12;1.12" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="16.5s"/>
+                values="0.90;1.17;1.17" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="15.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="16.5s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="16.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_tube2_C"/>
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="15.0s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="15.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_tube1_C"/>
             </animateMotion>
           </g>
         
@@ -806,32 +717,32 @@
             <g>
               <use href="#bubble_tree_sitter_query"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.90;1.16;1.16" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="18.0s"/>
+                values="0.88;1.12;1.12" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="16.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="18.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="18.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_flask_L"/>
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="16.5s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="16.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_tube2_C"/>
             </animateMotion>
           </g>
         
 
           <g class="bubble">
             <g>
-              <use href="#bubble_python"/>
+              <use href="#bubble_java"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.86;1.10;1.10" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="19.5s"/>
+                values="0.90;1.16;1.16" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="18.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="19.5s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="19.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_tube1_L"/>
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="18.0s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="18.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_flask_L"/>
             </animateMotion>
           </g>
         
@@ -840,49 +751,15 @@
             <g>
               <use href="#bubble_makefile"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.92;1.18;1.18" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="21.0s"/>
+                values="0.86;1.10;1.10" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="19.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="21.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="21.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_tube2_L"/>
-            </animateMotion>
-          </g>
-        
-
-          <g class="bubble">
-            <g>
-              <use href="#bubble_zig"/>
-              <animateTransform attributeName="transform" type="scale"
-                values="0.87;1.14;1.14" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="22.5s"/>
-            </g>
-            <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="22.5s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="22.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_flask_R"/>
-            </animateMotion>
-          </g>
-        
-
-          <g class="bubble">
-            <g>
-              <use href="#bubble_go"/>
-              <animateTransform attributeName="transform" type="scale"
-                values="0.91;1.08;1.08" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="24.0s"/>
-            </g>
-            <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="24.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="24.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_tube1_R"/>
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="19.5s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="19.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_tube1_L"/>
             </animateMotion>
           </g>
         
@@ -891,15 +768,15 @@
             <g>
               <use href="#bubble_batchfile"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.89;1.20;1.20" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="25.5s"/>
+                values="0.92;1.18;1.18" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="21.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="25.5s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="25.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_tube2_R"/>
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="21.0s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="21.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_tube2_L"/>
             </animateMotion>
           </g>
         
@@ -908,15 +785,15 @@
             <g>
               <use href="#bubble_kotlin"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.85;1.11;1.11" keyTimes="0;0.2222;1"
-                dur="40.5s" repeatCount="indefinite" begin="27.0s"/>
+                values="0.87;1.14;1.14" keyTimes="0;0.3333;1"
+                dur="27.0s" repeatCount="indefinite" begin="22.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
-              dur="40.5s" repeatCount="indefinite" begin="27.0s"/>
-            <animateMotion dur="40.5s" repeatCount="indefinite" begin="27.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
-              <mpath href="#p_flask_C"/>
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0400;0.2733;0.3333;1"
+              dur="27.0s" repeatCount="indefinite" begin="22.5s"/>
+            <animateMotion dur="27.0s" repeatCount="indefinite" begin="22.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.3333;1">
+              <mpath href="#p_flask_R"/>
             </animateMotion>
           </g>
         
