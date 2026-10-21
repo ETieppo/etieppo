@@ -387,7 +387,7 @@
         
 
           <g id="icon_glsl">
-            <g transform="scale(1.98)"><text x="0" y="5.2" text-anchor="middle" font-size="7.8" fill="rgba(0,245,255,0.95)" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial" font-weight="900">GLS</text></g>
+            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#ab47bc" d="M10.469 17.102a4.083 4.083 0 1 1-8.166 0 4.083 4.083 0 0 1 8.166 0m5.069-9.666a4.083 4.083 0 1 0-5.446 3.296c3.13 1.231 3.867 2.474 3.475 5.828a4.083 4.083 0 1 0 5.446-3.295c-3.13-1.232-3.869-2.475-3.475-5.829"/></svg></g>
           </g>
 
           <g id="bubbleBar_glsl">
@@ -410,7 +410,7 @@
         
 
           <g id="icon_tree_sitter_query">
-            <g transform="scale(1.98)"><text x="0" y="5.2" text-anchor="middle" font-size="7.8" fill="rgba(0,245,255,0.95)" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial" font-weight="900">TRE</text></g>
+            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#f44336" d="M5.11 21.186 9.887 7.303 8.945 5.11H7.407V2.813h2.296c.483 0 .896.299 1.068.724l6.58 15.353h1.539v2.296h-2.297a1.14 1.14 0 0 1-1.068-.735L11.231 10.45 7.544 21.186z"/></svg></g>
           </g>
 
           <g id="bubbleBar_tree_sitter_query">
@@ -602,14 +602,14 @@
             <g>
               <use href="#bubble_c"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.88;1.12;1.12" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="0.0s"/>
+                values="0.88;1.12;1.12" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="0.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="0.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="0.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="0.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="0.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_flask_C"/>
             </animateMotion>
           </g>
@@ -619,14 +619,14 @@
             <g>
               <use href="#bubble_lua"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.90;1.16;1.16" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="0.5s"/>
+                values="0.90;1.16;1.16" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="1.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="0.5s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="0.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="1.5s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="1.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube1_C"/>
             </animateMotion>
           </g>
@@ -636,14 +636,14 @@
             <g>
               <use href="#bubble_rust"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.86;1.10;1.10" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="1.0s"/>
+                values="0.86;1.10;1.10" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="3.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="1.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="1.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="3.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="3.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube2_C"/>
             </animateMotion>
           </g>
@@ -653,14 +653,14 @@
             <g>
               <use href="#bubble_typescript"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.92;1.18;1.18" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="1.5s"/>
+                values="0.92;1.18;1.18" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="4.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="1.5s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="1.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="4.5s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="4.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_flask_L"/>
             </animateMotion>
           </g>
@@ -670,14 +670,14 @@
             <g>
               <use href="#bubble_shell"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.87;1.14;1.14" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="2.0s"/>
+                values="0.87;1.14;1.14" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="6.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="2.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="2.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="6.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="6.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube1_L"/>
             </animateMotion>
           </g>
@@ -687,14 +687,14 @@
             <g>
               <use href="#bubble_c__"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.91;1.08;1.08" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="2.5s"/>
+                values="0.91;1.08;1.08" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="7.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="2.5s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="2.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="7.5s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="7.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube2_L"/>
             </animateMotion>
           </g>
@@ -704,14 +704,14 @@
             <g>
               <use href="#bubble_vim_script"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.89;1.20;1.20" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="3.0s"/>
+                values="0.89;1.20;1.20" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="9.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="3.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="3.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="9.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="9.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_flask_R"/>
             </animateMotion>
           </g>
@@ -721,14 +721,14 @@
             <g>
               <use href="#bubble_cmake"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.85;1.11;1.11" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="3.5s"/>
+                values="0.85;1.11;1.11" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="10.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="3.5s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="3.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="10.5s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="10.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube1_R"/>
             </animateMotion>
           </g>
@@ -738,14 +738,14 @@
             <g>
               <use href="#bubble_dart"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.93;1.15;1.15" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="4.0s"/>
+                values="0.93;1.15;1.15" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="12.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="4.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="4.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="12.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="12.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube2_R"/>
             </animateMotion>
           </g>
@@ -755,14 +755,14 @@
             <g>
               <use href="#bubble_powershell"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.88;1.13;1.13" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="4.5s"/>
+                values="0.88;1.13;1.13" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="13.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="4.5s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="4.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="13.5s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="13.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_flask_C"/>
             </animateMotion>
           </g>
@@ -772,14 +772,14 @@
             <g>
               <use href="#bubble_java"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.90;1.17;1.17" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="5.0s"/>
+                values="0.90;1.17;1.17" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="15.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="5.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="5.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="15.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="15.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube1_C"/>
             </animateMotion>
           </g>
@@ -789,14 +789,14 @@
             <g>
               <use href="#bubble_glsl"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.88;1.12;1.12" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="5.5s"/>
+                values="0.88;1.12;1.12" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="16.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="5.5s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="5.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="16.5s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="16.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube2_C"/>
             </animateMotion>
           </g>
@@ -806,14 +806,14 @@
             <g>
               <use href="#bubble_tree_sitter_query"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.90;1.16;1.16" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="6.0s"/>
+                values="0.90;1.16;1.16" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="18.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="6.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="6.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="18.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="18.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_flask_L"/>
             </animateMotion>
           </g>
@@ -823,14 +823,14 @@
             <g>
               <use href="#bubble_python"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.86;1.10;1.10" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="6.5s"/>
+                values="0.86;1.10;1.10" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="19.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="6.5s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="6.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="19.5s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="19.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube1_L"/>
             </animateMotion>
           </g>
@@ -840,14 +840,14 @@
             <g>
               <use href="#bubble_makefile"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.92;1.18;1.18" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="7.0s"/>
+                values="0.92;1.18;1.18" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="21.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="7.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="7.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="21.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="21.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube2_L"/>
             </animateMotion>
           </g>
@@ -857,14 +857,14 @@
             <g>
               <use href="#bubble_zig"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.87;1.14;1.14" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="7.5s"/>
+                values="0.87;1.14;1.14" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="22.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="7.5s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="7.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="22.5s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="22.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_flask_R"/>
             </animateMotion>
           </g>
@@ -874,14 +874,14 @@
             <g>
               <use href="#bubble_go"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.91;1.08;1.08" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="8.0s"/>
+                values="0.91;1.08;1.08" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="24.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="8.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="8.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="24.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="24.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube1_R"/>
             </animateMotion>
           </g>
@@ -891,14 +891,14 @@
             <g>
               <use href="#bubble_batchfile"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.89;1.20;1.20" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="8.5s"/>
+                values="0.89;1.20;1.20" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="25.5s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="8.5s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="8.5s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="25.5s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="25.5s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_tube2_R"/>
             </animateMotion>
           </g>
@@ -908,14 +908,14 @@
             <g>
               <use href="#bubble_kotlin"/>
               <animateTransform attributeName="transform" type="scale"
-                values="0.85;1.11;1.11" keyTimes="0;0.6667;1"
-                dur="13.5s" repeatCount="indefinite" begin="9.0s"/>
+                values="0.85;1.11;1.11" keyTimes="0;0.2222;1"
+                dur="40.5s" repeatCount="indefinite" begin="27.0s"/>
             </g>
             <animate attributeName="opacity"
-              values="0;0.9;0.9;0;0" keyTimes="0;0.0800;0.5467;0.6667;1"
-              dur="13.5s" repeatCount="indefinite" begin="9.0s"/>
-            <animateMotion dur="13.5s" repeatCount="indefinite" begin="9.0s" rotate="0"
-              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6667;1">
+              values="0;0.9;0.9;0;0" keyTimes="0;0.0267;0.1822;0.2222;1"
+              dur="40.5s" repeatCount="indefinite" begin="27.0s"/>
+            <animateMotion dur="40.5s" repeatCount="indefinite" begin="27.0s" rotate="0"
+              calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2222;1">
               <mpath href="#p_flask_C"/>
             </animateMotion>
           </g>
