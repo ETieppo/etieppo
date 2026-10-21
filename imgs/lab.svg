@@ -91,20 +91,17 @@
     <clipPath id="flaskInterior">
       <circle cx="190" cy="310" r="95"/>
     </clipPath>
-    <filter id="flaskLiquid" filterUnits="userSpaceOnUse" x="55" y="240" width="270" height="190" color-interpolation-filters="sRGB">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="1.5" result="softShape"/>
-      <feColorMatrix in="softShape" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 20 -9.5" result="bodyShape"/>
+    <filter id="flaskLiquid" filterUnits="userSpaceOnUse" x="76" y="300" width="228" height="128" color-interpolation-filters="sRGB">
       <feFlood style="flood-color: var(--liq)"/>
-      <feComposite in2="bodyShape" operator="in" result="body"/>
-      <feGaussianBlur in="body" stdDeviation="7.86" result="spreadBody"/>
+      <feComposite in2="SourceAlpha" operator="in" result="body"/>
+      <feGaussianBlur in="body" stdDeviation="7.9" result="spreadBody"/>
       <feColorMatrix in="spreadBody" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 40 -36.3" result="softCore"/>
       <feFlood flood-color="#012a36" flood-opacity="0.23"/>
       <feComposite in2="softCore" operator="in" result="shade"/>
-      <feOffset in="body" dy="2.5" result="lowered"/>
+      <feOffset in="body" dy="2.2" result="lowered"/>
       <feComposite in="body" in2="lowered" operator="out" result="surfaceEdge"/>
-      <feGaussianBlur in="surfaceEdge" stdDeviation="0.7" result="softEdge"/>
-      <feFlood flood-color="#eafffc" flood-opacity="0.7"/>
-      <feComposite in2="softEdge" operator="in" result="sheen"/>
+      <feFlood flood-color="#eafffc" flood-opacity="0.6"/>
+      <feComposite in2="surfaceEdge" operator="in" result="sheen"/>
       <feMerge result="lit">
         <feMergeNode in="body"/>
         <feMergeNode in="shade"/>
@@ -116,17 +113,10 @@
         <feMergeNode in="lit"/>
       </feMerge>
     </filter>
-    <mask id="flaskWave1" maskUnits="userSpaceOnUse" x="55" y="240" width="270" height="190">
+    <mask id="flaskWave1" maskUnits="userSpaceOnUse" x="76" y="300" width="228" height="128">
       <g fill="#fff">
-        <path d="M-52 325.74 C-41 326.71,-30 330.45,-19 332.11 C-8 333.91,3 333.71,14 333.12 C25 332.55,36 331.27,47 329.03 C58 326.84,69 324.57,80 325.74 C91 326.71,102 330.45,113 332.11 C124 333.91,135 333.71,146 333.12 C157 332.55,168 331.27,179 329.03 C190 326.84,201 324.57,212 325.74 C223 326.71,234 330.45,245 332.11 C256 333.91,267 333.71,278 333.12 C289 332.55,300 331.27,311 329.03 C322 326.84,333 324.57,344 325.74 C355 326.71,366 330.45,377 332.11 C388 333.91,399 333.71,410 333.12 C421 332.55,432 331.27,443 329.03 L443 412 L-52 412 Z">
-          <animateTransform attributeName="transform" type="translate" values="0 0;-132 0" dur="7.92s" repeatCount="indefinite"/>
-        </path>
-      </g>
-    </mask>
-    <mask id="flaskWave2" maskUnits="userSpaceOnUse" x="55" y="240" width="270" height="190">
-      <g fill="#fff">
-        <path d="M2 330.96 C8.5 330.69,15 330.01,21.5 329.23 C28 328.45,34.5 328.09,41 328.8 C47.5 329.45,54 330.67,60.5 331.01 C67 331.41,73.5 331.23,80 330.96 C86.5 330.69,93 330.01,99.5 329.23 C106 328.45,112.5 328.09,119 328.8 C125.5 329.45,132 330.67,138.5 331.01 C145 331.41,151.5 331.23,158 330.96 C164.5 330.69,171 330.01,177.5 329.23 C184 328.45,190.5 328.09,197 328.8 C203.5 329.45,210 330.67,216.5 331.01 C223 331.41,229.5 331.23,236 330.96 C242.5 330.69,249 330.01,255.5 329.23 C262 328.45,268.5 328.09,275 328.8 C281.5 329.45,288 330.67,294.5 331.01 C301 331.41,307.5 331.23,314 330.96 C320.5 330.69,327 330.01,333.5 329.23 C340 328.45,346.5 328.09,353 328.8 C359.5 329.45,366 330.67,372.5 331.01 C379 331.41,385.5 331.23,392 330.96 L392 412 L2 412 Z">
-          <animateTransform attributeName="transform" type="translate" values="0 0;78 0" dur="6.09s" repeatCount="indefinite"/>
+        <path d="M-70 327.6 C-45 327.2,-20 332.4,5 332.4 C30 332.8,55 327.6,80 327.6 C105 327.2,130 332.4,155 332.4 C180 332.8,205 327.6,230 327.6 C255 327.2,280 332.4,305 332.4 C330 332.8,355 327.6,380 327.6 C405 327.2,430 332.4,455 332.4 V412 H-70Z">
+          <animateTransform attributeName="transform" type="translate" values="0 0;-150 0" dur="12.1s" repeatCount="indefinite"/>
         </path>
       </g>
     </mask>
@@ -134,20 +124,17 @@
     <clipPath id="beakerInterior">
       <path d="M525 300 L735 300 L735 447 C670 460,590 460,525 447 Z"/>
     </clipPath>
-    <filter id="beakerLiquid" filterUnits="userSpaceOnUse" x="480" y="275" width="300" height="210" color-interpolation-filters="sRGB">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="1.5" result="softShape"/>
-      <feColorMatrix in="softShape" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 20 -9.5" result="bodyShape"/>
+    <filter id="beakerLiquid" filterUnits="userSpaceOnUse" x="505" y="322" width="250" height="150" color-interpolation-filters="sRGB">
       <feFlood style="flood-color: var(--liq)"/>
-      <feComposite in2="bodyShape" operator="in" result="body"/>
-      <feGaussianBlur in="body" stdDeviation="7.14" result="spreadBody"/>
+      <feComposite in2="SourceAlpha" operator="in" result="body"/>
+      <feGaussianBlur in="body" stdDeviation="7.1" result="spreadBody"/>
       <feColorMatrix in="spreadBody" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 40 -36.3" result="softCore"/>
       <feFlood flood-color="#012a36" flood-opacity="0.23"/>
       <feComposite in2="softCore" operator="in" result="shade"/>
-      <feOffset in="body" dy="2.5" result="lowered"/>
+      <feOffset in="body" dy="2.2" result="lowered"/>
       <feComposite in="body" in2="lowered" operator="out" result="surfaceEdge"/>
-      <feGaussianBlur in="surfaceEdge" stdDeviation="0.7" result="softEdge"/>
-      <feFlood flood-color="#eafffc" flood-opacity="0.7"/>
-      <feComposite in2="softEdge" operator="in" result="sheen"/>
+      <feFlood flood-color="#eafffc" flood-opacity="0.6"/>
+      <feComposite in2="surfaceEdge" operator="in" result="sheen"/>
       <feMerge result="lit">
         <feMergeNode in="body"/>
         <feMergeNode in="shade"/>
@@ -159,17 +146,10 @@
         <feMergeNode in="lit"/>
       </feMerge>
     </filter>
-    <mask id="beakerWave1" maskUnits="userSpaceOnUse" x="480" y="275" width="300" height="210">
+    <mask id="beakerWave1" maskUnits="userSpaceOnUse" x="505" y="322" width="250" height="150">
       <g fill="#fff">
-        <path d="M373 353.41 C384 355.62,395 355.81,406 355.32 C417 354.84,428 353.87,439 351.78 C450 349.78,461 346.99,472 347.49 C483 347.77,494 351.34,505 353.41 C516 355.62,527 355.81,538 355.32 C549 354.84,560 353.87,571 351.78 C582 349.78,593 346.99,604 347.49 C615 347.77,626 351.34,637 353.41 C648 355.62,659 355.81,670 355.32 C681 354.84,692 353.87,703 351.78 C714 349.78,725 346.99,736 347.49 C747 347.77,758 351.34,769 353.41 C780 355.62,791 355.81,802 355.32 C813 354.84,824 353.87,835 351.78 C846 349.78,857 346.99,868 347.49 C879 347.77,890 351.34,901 353.41 L901 472 L373 472 Z">
-          <animateTransform attributeName="transform" type="translate" values="0 0;-132 0" dur="7.92s" repeatCount="indefinite"/>
-        </path>
-      </g>
-    </mask>
-    <mask id="beakerWave2" maskUnits="userSpaceOnUse" x="480" y="275" width="300" height="210">
-      <g fill="#fff">
-        <path d="M427 350.5 C433.5 350.8,440 352.09,446.5 352.7 C453 353.35,459.5 353.32,466 353.11 C472.5 352.92,479 352.46,485.5 351.69 C492 350.93,498.5 350.13,505 350.5 C511.5 350.8,518 352.09,524.5 352.7 C531 353.35,537.5 353.32,544 353.11 C550.5 352.92,557 352.46,563.5 351.69 C570 350.93,576.5 350.13,583 350.5 C589.5 350.8,596 352.09,602.5 352.7 C609 353.35,615.5 353.32,622 353.11 C628.5 352.92,635 352.46,641.5 351.69 C648 350.93,654.5 350.13,661 350.5 C667.5 350.8,674 352.09,680.5 352.7 C687 353.35,693.5 353.32,700 353.11 C706.5 352.92,713 352.46,719.5 351.69 C726 350.93,732.5 350.13,739 350.5 C745.5 350.8,752 352.09,758.5 352.7 C765 353.35,771.5 353.32,778 353.11 C784.5 352.92,791 352.46,797.5 351.69 C804 350.93,810.5 350.13,817 350.5 C823.5 350.8,830 352.09,836.5 352.7 L836.5 472 L427 472 Z">
-          <animateTransform attributeName="transform" type="translate" values="0 0;78 0" dur="6.09s" repeatCount="indefinite"/>
+        <path d="M355 350.9 C380 348.1,405 350.4,430 353.1 C455 355.9,480 353.6,505 350.9 C530 348.1,555 350.4,580 353.1 C605 355.9,630 353.6,655 350.9 C680 348.1,705 350.4,730 353.1 C755 355.9,780 353.6,805 350.9 C830 348.1,855 350.4,880 353.1 C905 355.9,930 353.6,955 350.9 V472 H355Z">
+          <animateTransform attributeName="transform" type="translate" values="0 0;-150 0" dur="12.1s" repeatCount="indefinite"/>
         </path>
       </g>
     </mask>
@@ -196,7 +176,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_rust"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">29.99%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">29.80%</text>
           </g>
         
 
@@ -219,7 +199,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_typescript"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">27.42%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">27.50%</text>
           </g>
         
 
@@ -242,7 +222,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_lua"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">24.50%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">24.57%</text>
           </g>
         
 
@@ -265,7 +245,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_qml"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">4.91%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">4.92%</text>
           </g>
         
 
@@ -288,7 +268,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_css"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">3.28%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">3.29%</text>
           </g>
         
 
@@ -334,7 +314,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_shell"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">2.32%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">2.33%</text>
           </g>
         
 
@@ -357,7 +337,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_html"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.30%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.31%</text>
           </g>
         
 
@@ -1047,52 +1027,23 @@
       <g class="liquid" filter="url(#flaskLiquid)">
         <animate attributeName="opacity" values="0.88;1;0.88" dur="3.5s" repeatCount="indefinite" />
         <g clip-path="url(#flaskInterior)">
-          <g transform="translate(190 330)">
-            <g>
-              <animateTransform attributeName="transform" type="skewY" values="3.4;-2.38;1.53;-3.4;3.4" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" dur="14s" repeatCount="indefinite"/>
-              <g transform="translate(-190 -330)">
-                <g mask="url(#flaskWave1)">
-                <g mask="url(#flaskWave2)">
-                  <path d="M-130 333.83 C-112.5 332.63,-95 329.26,-77.5 325.84 C-60 322.35,-42.5 321.68,-25 325.4 C-7.5 328.93,10 333.98,27.5 334.93 C45 336.08,62.5 335.09,80 333.83 C97.5 332.63,115 329.26,132.5 325.84 C150 322.35,167.5 321.68,185 325.4 C202.5 328.93,220 333.98,237.5 334.93 C255 336.08,272.5 335.09,290 333.83 C307.5 332.63,325 329.26,342.5 325.84 C360 322.35,377.5 321.68,395 325.4 C412.5 328.93,430 333.98,447.5 334.93 C465 336.08,482.5 335.09,500 333.83 C517.5 332.63,535 329.26,552.5 325.84 L552.5 412 L-130 412 Z">
-                    <animateTransform attributeName="transform" type="translate" values="0 0;210 0" dur="9.99s" repeatCount="indefinite"/>
-                  </path>
-                </g>
-                </g>
-              </g>
-            </g>
+          <g mask="url(#flaskWave1)">
+            <path d="M-150 333.4 C-111.7 330.6,-73.3 323.1,-35 326.6 C3.3 329.4,41.7 336.9,80 333.4 C118.3 330.6,156.7 323.1,195 326.6 C233.3 329.4,271.7 336.9,310 333.4 C348.3 330.6,386.7 323.1,425 326.6 C463.3 329.4,501.7 336.9,540 333.4 V412 H-150Z">
+              <animateTransform attributeName="transform" type="translate" values="0 0;96.6 0;-41.4 0;140.3 0;16.1 0;-80.5 0;0 0" keyTimes="0;0.17;0.36;0.52;0.69;0.86;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" dur="23.7s" repeatCount="indefinite"/>
+            </path>
           </g>
         </g>
       </g>
       <g class="liquidBubbles" clip-path="url(#flaskInterior)">
-        <circle cx="168.86" cy="398" r="1.3">
-          <animate attributeName="cy" values="398;343" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="5.02s" begin="-0.36s" repeatCount="indefinite"/>
-          <animate attributeName="cx" values="165.25;172.47;165.25" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.51s" begin="-0.36s" repeatCount="indefinite"/>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="5.02s" begin="-0.36s" repeatCount="indefinite"/>
+        <circle cx="168.9" cy="398" r="1.3">
+          <animate attributeName="cy" values="398;343" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="7.5s" begin="-0.5s" repeatCount="indefinite"/>
+          <animate attributeName="cx" values="165.3;172.5;165.3" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.7s" begin="-0.5s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="7.5s" begin="-0.5s" repeatCount="indefinite"/>
         </circle>
-        <circle cx="173.88" cy="398" r="1.18">
-          <animate attributeName="cy" values="398;343" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="4.62s" begin="-0.17s" repeatCount="indefinite"/>
-          <animate attributeName="cx" values="170.58;177.18;170.58" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.31s" begin="-0.17s" repeatCount="indefinite"/>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="4.62s" begin="-0.17s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="138.38" cy="398" r="1.22">
-          <animate attributeName="cy" values="398;343" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="4.39s" begin="-3.63s" repeatCount="indefinite"/>
-          <animate attributeName="cx" values="136.01;140.75;136.01" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.19s" begin="-3.63s" repeatCount="indefinite"/>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="4.39s" begin="-3.63s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="156.79" cy="398" r="1.92">
-          <animate attributeName="cy" values="398;343" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="5.85s" begin="-3.38s" repeatCount="indefinite"/>
-          <animate attributeName="cx" values="153.6;159.98;153.6" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.93s" begin="-3.38s" repeatCount="indefinite"/>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="5.85s" begin="-3.38s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="247.15" cy="398" r="1.16">
-          <animate attributeName="cy" values="398;343" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="5.6s" begin="-1.62s" repeatCount="indefinite"/>
-          <animate attributeName="cx" values="244.72;249.58;244.72" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.8s" begin="-1.62s" repeatCount="indefinite"/>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="5.6s" begin="-1.62s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="144.14" cy="398" r="1.5">
-          <animate attributeName="cy" values="398;343" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="5.49s" begin="-0.99s" repeatCount="indefinite"/>
-          <animate attributeName="cx" values="140.39;147.88;140.39" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.74s" begin="-0.99s" repeatCount="indefinite"/>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="5.49s" begin="-0.99s" repeatCount="indefinite"/>
+        <circle cx="173.9" cy="398" r="1.2">
+          <animate attributeName="cy" values="398;343" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="7s" begin="-0.3s" repeatCount="indefinite"/>
+          <animate attributeName="cx" values="170.6;177.2;170.6" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.5s" begin="-0.3s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="7s" begin="-0.3s" repeatCount="indefinite"/>
         </circle>
       </g>
       <circle class="glass" cx="190" cy="310" r="95"/>
@@ -1106,57 +1057,23 @@
     <g class="liquid" filter="url(#beakerLiquid)">
       <animate attributeName="opacity" values="0.88;1;0.88" dur="4s" repeatCount="indefinite" />
       <g clip-path="url(#beakerInterior)">
-        <g transform="translate(630 352)">
-          <g>
-            <animateTransform attributeName="transform" type="skewY" values="3.4;-2.38;1.53;-3.4;3.4" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" dur="14s" repeatCount="indefinite"/>
-            <g transform="translate(-630 -352)">
-              <g mask="url(#beakerWave1)">
-              <g mask="url(#beakerWave2)">
-                <path d="M295 355.4 C312.5 354,330 350.07,347.5 346.97 C365 343.75,382.5 344.32,400 348.41 C417.5 352.38,435 356.73,452.5 357.22 C470 357.88,487.5 356.88,505 355.4 C522.5 354,540 350.07,557.5 346.97 C575 343.75,592.5 344.32,610 348.41 C627.5 352.38,645 356.73,662.5 357.22 C680 357.88,697.5 356.88,715 355.4 C732.5 354,750 350.07,767.5 346.97 C785 343.75,802.5 344.32,820 348.41 C837.5 352.38,855 356.73,872.5 357.22 C890 357.88,907.5 356.88,925 355.4 C942.5 354,960 350.07,977.5 346.97 L977.5 472 L295 472 Z">
-                  <animateTransform attributeName="transform" type="translate" values="0 0;210 0" dur="9.99s" repeatCount="indefinite"/>
-                </path>
-              </g>
-              </g>
-            </g>
-          </g>
+        <g mask="url(#beakerWave1)">
+          <path d="M275 356 C313.3 358.1,351.7 349.5,390 348 C428.3 345.9,466.7 354.5,505 356 C543.3 358.1,581.7 349.5,620 348 C658.3 345.9,696.7 354.5,735 356 C773.3 358.1,811.7 349.5,850 348 C888.3 345.9,926.7 354.5,965 356 C1003.3 358.1,1041.7 349.5,1080 348 V472 H275Z">
+            <animateTransform attributeName="transform" type="translate" values="0 0;96.6 0;-41.4 0;140.3 0;16.1 0;-80.5 0;0 0" keyTimes="0;0.17;0.36;0.52;0.69;0.86;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" dur="23.7s" repeatCount="indefinite"/>
+          </path>
         </g>
       </g>
     </g>
     <g class="liquidBubbles" clip-path="url(#beakerInterior)">
-      <circle cx="653.62" cy="446" r="1.58">
-        <animate attributeName="cy" values="446;365" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="4.73s" begin="-0.3s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="651.44;655.79;651.44" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.37s" begin="-0.3s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="4.73s" begin="-0.3s" repeatCount="indefinite"/>
+      <circle cx="556.9" cy="446" r="1.2">
+        <animate attributeName="cy" values="446;365" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="6.8s" begin="-5.6s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="554.5;559.2;554.5" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="3.4s" begin="-5.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="6.8s" begin="-5.6s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="580.01" cy="446" r="1.98">
-        <animate attributeName="cy" values="446;365" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="4.4s" begin="-1.38s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="576.26;583.77;576.26" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.2s" begin="-1.38s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="4.4s" begin="-1.38s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="622.04" cy="446" r="1.49">
-        <animate attributeName="cy" values="446;365" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="5.42s" begin="-3.79s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="619.31;624.77;619.31" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.71s" begin="-3.79s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="5.42s" begin="-3.79s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="642.65" cy="446" r="1.78">
-        <animate attributeName="cy" values="446;365" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="5.65s" begin="-4.12s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="639.79;645.52;639.79" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.83s" begin="-4.12s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="5.65s" begin="-4.12s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="711.63" cy="446" r="1.25">
-        <animate attributeName="cy" values="446;365" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="4.37s" begin="-3.31s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="709.17;714.09;709.17" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.19s" begin="-3.31s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="4.37s" begin="-3.31s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="628.12" cy="446" r="1.15">
-        <animate attributeName="cy" values="446;365" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="5.07s" begin="-3.88s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="624.4;631.84;624.4" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.54s" begin="-3.88s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="5.07s" begin="-3.88s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="693.83" cy="446" r="1.51">
-        <animate attributeName="cy" values="446;365" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="5.15s" begin="-3.06s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="690.09;697.57;690.09" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="2.57s" begin="-3.06s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="5.15s" begin="-3.06s" repeatCount="indefinite"/>
+      <circle cx="583" cy="446" r="1.9">
+        <animate attributeName="cy" values="446;365" keySplines="0.5 0 0.9 0.8" keyTimes="0;1" calcMode="spline" dur="8.3s" begin="-4.8s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="579.8;586.1;579.8" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="4.2s" begin="-4.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="8.3s" begin="-4.8s" repeatCount="indefinite"/>
       </circle>
     </g>
     <path class="glass" d="M515 107 L745 107 L745 453 C670 462,590 462,515 453 Z"/>
