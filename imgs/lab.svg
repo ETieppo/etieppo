@@ -474,7 +474,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_batchfile"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.01%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">&lt;0.01%</text>
           </g>
         
 
@@ -497,7 +497,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_kotlin"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.01%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">&lt;0.01%</text>
           </g>
         
 
