@@ -1,14 +1,14 @@
 {
   "langs": {
     "c": {
-      "rank": 6,
-      "previous_rank": 4,
-      "since_unix": 1792607987
+      "rank": 7,
+      "previous_rank": 6,
+      "since_unix": 1792831267
     },
     "c__": {
-      "rank": 9,
-      "previous_rank": 6,
-      "since_unix": 1792607987
+      "rank": 4,
+      "previous_rank": 9,
+      "since_unix": 1792831267
     },
     "cmake": {
       "rank": 12,
@@ -16,24 +16,24 @@
       "since_unix": 1792607987
     },
     "css": {
-      "rank": 5,
-      "previous_rank": null,
-      "since_unix": 1792607987
+      "rank": 6,
+      "previous_rank": 5,
+      "since_unix": 1792831267
     },
     "dart": {
-      "rank": 11,
-      "previous_rank": 8,
-      "since_unix": 1792607987
+      "rank": 14,
+      "previous_rank": 11,
+      "since_unix": 1792831267
     },
     "glsl": {
-      "rank": 14,
-      "previous_rank": 15,
-      "since_unix": 1792609435
+      "rank": 11,
+      "previous_rank": 14,
+      "since_unix": 1792831267
     },
     "html": {
-      "rank": 8,
-      "previous_rank": null,
-      "since_unix": 1792607987
+      "rank": 9,
+      "previous_rank": 8,
+      "since_unix": 1792831267
     },
     "java": {
       "rank": 17,
@@ -61,9 +61,9 @@
       "since_unix": 1792609435
     },
     "qml": {
-      "rank": 4,
-      "previous_rank": null,
-      "since_unix": 1792607987
+      "rank": 5,
+      "previous_rank": 4,
+      "since_unix": 1792831267
     },
     "rust": {
       "rank": 1,
@@ -71,9 +71,9 @@
       "since_unix": 1792601632
     },
     "shell": {
-      "rank": 7,
-      "previous_rank": 5,
-      "since_unix": 1792607987
+      "rank": 8,
+      "previous_rank": 7,
+      "since_unix": 1792831267
     },
     "swift": {
       "rank": 19,
@@ -96,14 +96,14 @@
       "since_unix": 1792601632
     },
     "vim_script": {
-      "rank": 10,
-      "previous_rank": 7,
-      "since_unix": 1792607987
+      "rank": 13,
+      "previous_rank": 10,
+      "since_unix": 1792831267
     },
     "zig": {
-      "rank": 13,
-      "previous_rank": 14,
-      "since_unix": 1792608826
+      "rank": 10,
+      "previous_rank": 13,
+      "since_unix": 1792831267
     }
   }
 }
