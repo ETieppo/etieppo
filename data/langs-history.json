@@ -6,9 +6,9 @@
       "since_unix": 1792831267
     },
     "c__": {
-      "rank": 4,
-      "previous_rank": 9,
-      "since_unix": 1792831267
+      "rank": 2,
+      "previous_rank": 4,
+      "since_unix": 1793007983
     },
     "cmake": {
       "rank": 12,
@@ -31,9 +31,9 @@
       "since_unix": 1792831267
     },
     "html": {
-      "rank": 9,
-      "previous_rank": 8,
-      "since_unix": 1792831267
+      "rank": 10,
+      "previous_rank": 9,
+      "since_unix": 1793007983
     },
     "java": {
       "rank": 17,
@@ -46,9 +46,9 @@
       "since_unix": 1792609435
     },
     "lua": {
-      "rank": 3,
-      "previous_rank": 1,
-      "since_unix": 1792601632
+      "rank": 4,
+      "previous_rank": 3,
+      "since_unix": 1793007983
     },
     "makefile": {
       "rank": 20,
@@ -91,9 +91,9 @@
       "since_unix": 1792609435
     },
     "typescript": {
-      "rank": 2,
-      "previous_rank": 3,
-      "since_unix": 1792601632
+      "rank": 3,
+      "previous_rank": 2,
+      "since_unix": 1793007983
     },
     "vim_script": {
       "rank": 13,
@@ -101,9 +101,9 @@
       "since_unix": 1792831267
     },
     "zig": {
-      "rank": 10,
-      "previous_rank": 13,
-      "since_unix": 1792831267
+      "rank": 9,
+      "previous_rank": 10,
+      "since_unix": 1793007983
     }
   }
 }
