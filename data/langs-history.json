@@ -1,14 +1,14 @@
 {
   "langs": {
     "c": {
-      "rank": 7,
-      "previous_rank": 6,
-      "since_unix": 1792831267
+      "rank": 8,
+      "previous_rank": 7,
+      "since_unix": 1793270606
     },
     "c__": {
-      "rank": 2,
-      "previous_rank": 4,
-      "since_unix": 1793007983
+      "rank": 3,
+      "previous_rank": 2,
+      "since_unix": 1793270606
     },
     "cmake": {
       "rank": 12,
@@ -26,14 +26,14 @@
       "since_unix": 1792831267
     },
     "glsl": {
-      "rank": 11,
-      "previous_rank": 14,
-      "since_unix": 1792831267
+      "rank": 7,
+      "previous_rank": 11,
+      "since_unix": 1793270606
     },
     "html": {
-      "rank": 10,
-      "previous_rank": 9,
-      "since_unix": 1793007983
+      "rank": 11,
+      "previous_rank": 10,
+      "since_unix": 1793270606
     },
     "java": {
       "rank": 17,
@@ -66,14 +66,14 @@
       "since_unix": 1792831267
     },
     "rust": {
-      "rank": 1,
-      "previous_rank": 2,
-      "since_unix": 1792601632
+      "rank": 2,
+      "previous_rank": 1,
+      "since_unix": 1793270606
     },
     "shell": {
-      "rank": 8,
-      "previous_rank": 7,
-      "since_unix": 1792831267
+      "rank": 9,
+      "previous_rank": 8,
+      "since_unix": 1793270606
     },
     "swift": {
       "rank": 19,
@@ -91,9 +91,9 @@
       "since_unix": 1792609435
     },
     "typescript": {
-      "rank": 3,
-      "previous_rank": 2,
-      "since_unix": 1793007983
+      "rank": 1,
+      "previous_rank": 3,
+      "since_unix": 1793270606
     },
     "vim_script": {
       "rank": 13,
@@ -101,9 +101,9 @@
       "since_unix": 1792831267
     },
     "zig": {
-      "rank": 9,
-      "previous_rank": 10,
-      "since_unix": 1793007983
+      "rank": 10,
+      "previous_rank": 9,
+      "since_unix": 1793270606
     }
   }
 }
