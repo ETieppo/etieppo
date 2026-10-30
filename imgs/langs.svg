@@ -5,101 +5,101 @@
     .phrase{ font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial; font-style:italic; }
   </style>
   <g id="lang_typescript">
-    <rect class="tile" x="3.0" y="3.0" width="467.3" height="270.5" fill="rgb(9,27,37)"/>
+    <rect class="tile" x="3.0" y="3.0" width="467.4" height="270.1" fill="rgb(9,27,37)"/>
     <g transform="translate(13.0 13.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 16 16" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M2 2v12h12V2zm4 6h3v1H8v4H7V9H6zm5 0h2v1h-2v1h1a1.003 1.003 0 0 1 1 1v1a1.003 1.003 0 0 1-1 1h-2v-1h2v-1h-1a1.003 1.003 0 0 1-1-1V9a1.003 1.003 0 0 1 1-1"/></svg></g>
     <text class="name" x="51.0" y="35.0" font-size="20.0" fill="rgb(161,217,247)">TypeScript</text>
-    <g class="trend trend-rising"><title>Rising in ranking</title><text x="445.3" y="28.0" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(48,232,94)" transform="rotate(-90 445.3 28.0)">»</text></g>
-    <text class="pct" x="13.0" y="59.5" font-size="15.0" fill="rgb(226,231,233)">26.49%</text>
+    <g class="trend trend-rising"><title>Rising in ranking</title><text x="445.4" y="28.0" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(48,232,94)" transform="rotate(-90 445.4 28.0)">»</text></g>
+    <text class="pct" x="13.0" y="59.5" font-size="15.0" fill="rgb(226,231,233)">26.40%</text>
     <text class="phrase" x="13.0" y="80.1" font-size="14.0" fill="rgb(188,215,230)">Pulou o cano do Mario.</text>
   </g>
   <g id="lang_rust">
-    <rect class="tile" x="476.3" y="3.0" width="420.7" height="270.5" fill="rgb(76,33,19)"/>
-    <g transform="translate(486.3 13.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#ff7043" d="m30 12-4-2V6h-4l-2-4-4 2-4-2-2 4H6v4l-4 2 2 4-2 4 4 2v4h4l2 4 4-2 4 2 2-4h4v-4l4-2-2-4ZM6 16a9.9 9.9 0 0 1 .842-4H10v8H6.842A9.9 9.9 0 0 1 6 16m10 10a9.98 9.98 0 0 1-7.978-4H16v-2h-2v-2h4c.819.819.297 2.308 1.179 3.37a1.89 1.89 0 0 0 1.46.63h3.34A9.98 9.98 0 0 1 16 26m-2-12v-2h4a1 1 0 0 1 0 2Zm11.158 6H24a2.006 2.006 0 0 1-2-2 2 2 0 0 0-2-2 3 3 0 0 0 3-3q0-.08-.004-.161A3.115 3.115 0 0 0 19.83 10H8.022a9.986 9.986 0 0 1 17.136 10"/></svg></g>
-    <text class="name" x="524.3" y="35.0" font-size="20.0" fill="rgb(247,181,161)">Rust</text>
+    <rect class="tile" x="476.4" y="3.0" width="420.6" height="270.1" fill="rgb(76,33,19)"/>
+    <g transform="translate(486.4 13.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#ff7043" d="m30 12-4-2V6h-4l-2-4-4 2-4-2-2 4H6v4l-4 2 2 4-2 4 4 2v4h4l2 4 4-2 4 2 2-4h4v-4l4-2-2-4ZM6 16a9.9 9.9 0 0 1 .842-4H10v8H6.842A9.9 9.9 0 0 1 6 16m10 10a9.98 9.98 0 0 1-7.978-4H16v-2h-2v-2h4c.819.819.297 2.308 1.179 3.37a1.89 1.89 0 0 0 1.46.63h3.34A9.98 9.98 0 0 1 16 26m-2-12v-2h4a1 1 0 0 1 0 2Zm11.158 6H24a2.006 2.006 0 0 1-2-2 2 2 0 0 0-2-2 3 3 0 0 0 3-3q0-.08-.004-.161A3.115 3.115 0 0 0 19.83 10H8.022a9.986 9.986 0 0 1 17.136 10"/></svg></g>
+    <text class="name" x="524.4" y="35.0" font-size="20.0" fill="rgb(247,181,161)">Rust</text>
     <g class="trend trend-falling"><title>Falling in ranking</title><text x="872.0" y="28.0" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(238,108,104)" transform="rotate(90 872.0 28.0)">»</text></g>
-    <text class="pct" x="486.3" y="59.5" font-size="15.0" fill="rgb(233,228,226)">20.40%</text>
-    <text class="phrase" x="486.3" y="80.1" font-size="14.0" fill="rgb(230,198,188)">Tava bom demais pra ser verdade.</text>
+    <text class="pct" x="486.4" y="59.5" font-size="15.0" fill="rgb(233,228,226)">20.32%</text>
+    <text class="phrase" x="486.4" y="80.1" font-size="14.0" fill="rgb(230,198,188)">Tava bom demais pra ser verdade.</text>
   </g>
   <g id="lang_c__">
-    <rect class="tile" x="3.0" y="279.5" width="586.8" height="192.2" fill="rgb(9,26,35)"/>
-    <g transform="translate(13.0 289.5) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M28 14v-4h-2v4h-6v-4h-2v4h-4v2h4v4h2v-4h6v4h2v-4h4v-2z"/><path fill="#0288d1" d="M13.563 22A5.57 5.57 0 0 1 8 16.437v-2.873A5.57 5.57 0 0 1 13.563 8H18V2h-4.437A11.563 11.563 0 0 0 2 13.563v2.873A11.564 11.564 0 0 0 13.563 28H18v-6Z"/></svg></g>
-    <text class="name" x="51.0" y="311.5" font-size="20.0" fill="rgb(161,217,247)">C++</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="564.8" y="304.5" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(234,68,62)" transform="rotate(90 564.8 304.5)">»</text></g>
-    <text class="pct" x="13.0" y="336.0" font-size="15.0" fill="rgb(226,231,233)">20.19%</text>
-    <text class="phrase" x="13.0" y="356.6" font-size="14.0" fill="rgb(188,215,230)">Escorregou no sabão.</text>
+    <rect class="tile" x="3.0" y="279.1" width="587.0" height="191.8" fill="rgb(9,26,35)"/>
+    <g transform="translate(13.0 289.1) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M28 14v-4h-2v4h-6v-4h-2v4h-4v2h4v4h2v-4h6v4h2v-4h4v-2z"/><path fill="#0288d1" d="M13.563 22A5.57 5.57 0 0 1 8 16.437v-2.873A5.57 5.57 0 0 1 13.563 8H18V2h-4.437A11.563 11.563 0 0 0 2 13.563v2.873A11.564 11.564 0 0 0 13.563 28H18v-6Z"/></svg></g>
+    <text class="name" x="51.0" y="311.1" font-size="20.0" fill="rgb(161,217,247)">C++</text>
+    <g class="trend trend-falling"><title>Falling in ranking</title><text x="565.0" y="304.1" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(234,68,62)" transform="rotate(90 565.0 304.1)">»</text></g>
+    <text class="pct" x="13.0" y="335.6" font-size="15.0" fill="rgb(226,231,233)">20.10%</text>
+    <text class="phrase" x="13.0" y="356.2" font-size="14.0" fill="rgb(188,215,230)">Escorregou no sabão.</text>
   </g>
   <g id="lang_lua">
-    <rect class="tile" x="3.0" y="477.7" width="586.8" height="184.4" fill="rgb(18,49,74)"/>
-    <g transform="translate(13.0 487.7) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#42a5f5" d="M30 6a3.86 3.86 0 0 1-1.167 2.833 4.024 4.024 0 0 1-5.666 0A3.86 3.86 0 0 1 22 6a3.86 3.86 0 0 1 1.167-2.833 4.024 4.024 0 0 1 5.666 0A3.86 3.86 0 0 1 30 6m-9.208 5.208A10.6 10.6 0 0 0 13 8a10.6 10.6 0 0 0-7.792 3.208A10.6 10.6 0 0 0 2 19a10.6 10.6 0 0 0 3.208 7.792A10.6 10.6 0 0 0 13 30a10.6 10.6 0 0 0 7.792-3.208A10.6 10.6 0 0 0 24 19a10.6 10.6 0 0 0-3.208-7.792m-1.959 7.625a4.024 4.024 0 0 1-5.666 0 4.024 4.024 0 0 1 0-5.666 4.024 4.024 0 0 1 5.666 0 4.024 4.024 0 0 1 0 5.666"/></svg></g>
-    <text class="name" x="51.0" y="509.7" font-size="20.0" fill="rgb(161,209,247)">Lua</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="564.8" y="502.7" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(239,112,108)" transform="rotate(90 564.8 502.7)">»</text></g>
-    <text class="pct" x="13.0" y="534.2" font-size="15.0" fill="rgb(226,230,233)">18.20%</text>
-    <text class="phrase" x="13.0" y="554.7" font-size="14.0" fill="rgb(188,211,230)">Faz parte.</text>
+    <rect class="tile" x="3.0" y="477.0" width="587.0" height="185.5" fill="rgb(19,49,74)"/>
+    <g transform="translate(13.0 487.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#42a5f5" d="M30 6a3.86 3.86 0 0 1-1.167 2.833 4.024 4.024 0 0 1-5.666 0A3.86 3.86 0 0 1 22 6a3.86 3.86 0 0 1 1.167-2.833 4.024 4.024 0 0 1 5.666 0A3.86 3.86 0 0 1 30 6m-9.208 5.208A10.6 10.6 0 0 0 13 8a10.6 10.6 0 0 0-7.792 3.208A10.6 10.6 0 0 0 2 19a10.6 10.6 0 0 0 3.208 7.792A10.6 10.6 0 0 0 13 30a10.6 10.6 0 0 0 7.792-3.208A10.6 10.6 0 0 0 24 19a10.6 10.6 0 0 0-3.208-7.792m-1.959 7.625a4.024 4.024 0 0 1-5.666 0 4.024 4.024 0 0 1 0-5.666 4.024 4.024 0 0 1 5.666 0 4.024 4.024 0 0 1 0 5.666"/></svg></g>
+    <text class="name" x="51.0" y="509.0" font-size="20.0" fill="rgb(161,209,247)">Lua</text>
+    <g class="trend trend-falling"><title>Falling in ranking</title><text x="565.0" y="502.0" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(239,112,108)" transform="rotate(90 565.0 502.0)">»</text></g>
+    <text class="pct" x="13.0" y="533.5" font-size="15.0" fill="rgb(226,230,233)">18.48%</text>
+    <text class="phrase" x="13.0" y="554.0" font-size="14.0" fill="rgb(188,211,230)">Faz parte.</text>
   </g>
   <g id="lang_qml">
-    <rect class="tile" x="595.8" y="279.5" width="301.2" height="199.4" fill="rgb(14,52,18)"/>
-    <g transform="translate(605.8 289.5) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path d="M27.3,5H5.886L2,8.958V26H26.114L30,22.042V5ZM16.9,23.07l-1.828.852L13.5,21.331a3.968,3.968,0,0,1-1.082.106c-1.845,0-3.123-.5-3.85-1.49a8.03,8.03,0,0,1-1.082-4.7,8.351,8.351,0,0,1,1.1-4.773,4.379,4.379,0,0,1,3.833-1.561c1.828,0,3.087.515,3.833,1.544a8.351,8.351,0,0,1,1.1,4.773,10.809,10.809,0,0,1-.452,3.44,3.9,3.9,0,0,1-1.473,2Zm5.848-1.67a2.735,2.735,0,0,1-2.168-.692A4.192,4.192,0,0,1,20,18.1V14H19V12h1V9h2v3h2v2H22v3.9a3.907,3.907,0,0,0,.168,1.437c.112.231.393.355.86.355l1.533-.053.093,1.544A12.519,12.519,0,0,1,22.748,21.4ZM12.416,10.614a2.4,2.4,0,0,0-2.289,1.1,7.657,7.657,0,0,0-.6,3.513,7.131,7.131,0,0,0,.6,3.442A2.44,2.44,0,0,0,12.433,19.7a2.417,2.417,0,0,0,2.289-1.011,7.343,7.343,0,0,0,.586-3.442,7.692,7.692,0,0,0-.6-3.531A2.4,2.4,0,0,0,12.416,10.614Z" style="fill:#41cd52"/></svg></g>
-    <text class="name" x="643.8" y="311.5" font-size="20.0" fill="rgb(174,234,181)">QML</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="872.0" y="304.5" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(238,108,104)" transform="rotate(90 872.0 304.5)">»</text></g>
-    <text class="pct" x="605.8" y="336.0" font-size="15.0" fill="rgb(226,233,227)">3.37%</text>
-    <text class="phrase" x="605.8" y="356.6" font-size="14.0" fill="rgb(188,230,193)">Recuou estrategicamente. Será?</text>
+    <rect class="tile" x="596.0" y="279.1" width="301.0" height="200.2" fill="rgb(14,52,18)"/>
+    <g transform="translate(606.0 289.1) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path d="M27.3,5H5.886L2,8.958V26H26.114L30,22.042V5ZM16.9,23.07l-1.828.852L13.5,21.331a3.968,3.968,0,0,1-1.082.106c-1.845,0-3.123-.5-3.85-1.49a8.03,8.03,0,0,1-1.082-4.7,8.351,8.351,0,0,1,1.1-4.773,4.379,4.379,0,0,1,3.833-1.561c1.828,0,3.087.515,3.833,1.544a8.351,8.351,0,0,1,1.1,4.773,10.809,10.809,0,0,1-.452,3.44,3.9,3.9,0,0,1-1.473,2Zm5.848-1.67a2.735,2.735,0,0,1-2.168-.692A4.192,4.192,0,0,1,20,18.1V14H19V12h1V9h2v3h2v2H22v3.9a3.907,3.907,0,0,0,.168,1.437c.112.231.393.355.86.355l1.533-.053.093,1.544A12.519,12.519,0,0,1,22.748,21.4ZM12.416,10.614a2.4,2.4,0,0,0-2.289,1.1,7.657,7.657,0,0,0-.6,3.513,7.131,7.131,0,0,0,.6,3.442A2.44,2.44,0,0,0,12.433,19.7a2.417,2.417,0,0,0,2.289-1.011,7.343,7.343,0,0,0,.586-3.442,7.692,7.692,0,0,0-.6-3.531A2.4,2.4,0,0,0,12.416,10.614Z" style="fill:#41cd52"/></svg></g>
+    <text class="name" x="644.0" y="311.1" font-size="20.0" fill="rgb(174,234,181)">QML</text>
+    <g class="trend trend-falling"><title>Falling in ranking</title><text x="872.0" y="304.1" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(238,108,104)" transform="rotate(90 872.0 304.1)">»</text></g>
+    <text class="pct" x="606.0" y="335.6" font-size="15.0" fill="rgb(226,233,227)">3.40%</text>
+    <text class="phrase" x="606.0" y="356.2" font-size="14.0" fill="rgb(188,230,193)">Recuou estrategicamente. Será?</text>
   </g>
   <g id="lang_css">
-    <rect class="tile" x="595.8" y="484.9" width="301.2" height="177.1" fill="rgb(14,8,23)"/>
-    <g transform="translate(605.8 494.9) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#7e57c2" d="M20 18h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 20 22h2v2h2v-2c0-.388-.562-.851-1.254-1.034C20.356 20.34 20 18.84 20 18m-3.254 2.966C14.356 20.34 14 18.84 14 18h-2v-2h-2v8h2v-2h4v2h2v-2c0-.388-.562-.851-1.254-1.034"/><path fill="#7e57c2" d="M24 4H4v20a4 4 0 0 0 4 4h16.16A3.84 3.84 0 0 0 28 24.16V8a4 4 0 0 0-4-4m2 14h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 26 22v2a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2Z"/></svg></g>
-    <text class="name" x="643.8" y="516.9" font-size="20.0" fill="rgb(198,180,228)">CSS</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="872.0" y="509.9" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(232,55,48)" transform="rotate(90 872.0 509.9)">»</text></g>
-    <text class="pct" x="605.8" y="541.4" font-size="15.0" fill="rgb(228,226,233)">2.25%</text>
-    <text class="phrase" x="605.8" y="562.0" font-size="14.0" fill="rgb(204,188,230)">Foi bom enquanto durou.</text>
+    <rect class="tile" x="596.0" y="485.4" width="301.0" height="177.1" fill="rgb(14,8,23)"/>
+    <g transform="translate(606.0 495.4) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#7e57c2" d="M20 18h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 20 22h2v2h2v-2c0-.388-.562-.851-1.254-1.034C20.356 20.34 20 18.84 20 18m-3.254 2.966C14.356 20.34 14 18.84 14 18h-2v-2h-2v8h2v-2h4v2h2v-2c0-.388-.562-.851-1.254-1.034"/><path fill="#7e57c2" d="M24 4H4v20a4 4 0 0 0 4 4h16.16A3.84 3.84 0 0 0 28 24.16V8a4 4 0 0 0-4-4m2 14h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 26 22v2a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2Z"/></svg></g>
+    <text class="name" x="644.0" y="517.4" font-size="20.0" fill="rgb(198,180,228)">CSS</text>
+    <g class="trend trend-falling"><title>Falling in ranking</title><text x="872.0" y="510.4" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(232,55,48)" transform="rotate(90 872.0 510.4)">»</text></g>
+    <text class="pct" x="606.0" y="541.9" font-size="15.0" fill="rgb(228,226,233)">2.25%</text>
+    <text class="phrase" x="606.0" y="562.4" font-size="14.0" fill="rgb(204,188,230)">Foi bom enquanto durou.</text>
   </g>
   <g id="lang_glsl">
-    <rect class="tile" x="3.0" y="668.0" width="454.0" height="110.0" fill="rgb(23,9,26)"/>
-    <g transform="translate(13.0 678.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#ab47bc" d="M10.469 17.102a4.083 4.083 0 1 1-8.166 0 4.083 4.083 0 0 1 8.166 0m5.069-9.666a4.083 4.083 0 1 0-5.446 3.296c3.13 1.231 3.867 2.474 3.475 5.828a4.083 4.083 0 1 0 5.446-3.295c-3.13-1.232-3.869-2.475-3.475-5.829"/></svg></g>
-    <text class="name" x="51.0" y="700.0" font-size="20.0" fill="rgb(221,180,228)">GLSL</text>
-    <g class="trend trend-rising"><title>Rising in ranking</title><text x="432.0" y="693.0" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(48,232,94)" transform="rotate(-90 432.0 693.0)">»</text></g>
-    <text class="pct" x="13.0" y="724.5" font-size="15.0" fill="rgb(232,226,233)">1.81%</text>
-    <text class="phrase" x="13.0" y="745.1" font-size="14.0" fill="rgb(224,188,230)">Tá ganhando terreno.</text>
+    <rect class="tile" x="3.0" y="668.4" width="454.0" height="110.0" fill="rgb(23,9,26)"/>
+    <g transform="translate(13.0 678.4) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#ab47bc" d="M10.469 17.102a4.083 4.083 0 1 1-8.166 0 4.083 4.083 0 0 1 8.166 0m5.069-9.666a4.083 4.083 0 1 0-5.446 3.296c3.13 1.231 3.867 2.474 3.475 5.828a4.083 4.083 0 1 0 5.446-3.295c-3.13-1.232-3.869-2.475-3.475-5.829"/></svg></g>
+    <text class="name" x="51.0" y="700.4" font-size="20.0" fill="rgb(221,180,228)">GLSL</text>
+    <g class="trend trend-rising"><title>Rising in ranking</title><text x="432.0" y="693.4" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(48,232,94)" transform="rotate(-90 432.0 693.4)">»</text></g>
+    <text class="pct" x="13.0" y="724.9" font-size="15.0" fill="rgb(232,226,233)">1.80%</text>
+    <text class="phrase" x="13.0" y="745.5" font-size="14.0" fill="rgb(224,188,230)">Tá ganhando terreno.</text>
   </g>
   <g id="lang_c">
-    <rect class="tile" x="3.0" y="784.0" width="225.1" height="176.0" fill="rgb(9,26,36)"/>
-    <g transform="translate(13.0 794.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M19.563 22A5.57 5.57 0 0 1 14 16.437v-2.873A5.57 5.57 0 0 1 19.563 8H24V2h-4.437A11.563 11.563 0 0 0 8 13.563v2.873A11.564 11.564 0 0 0 19.563 28H24v-6Z"/></svg></g>
-    <text class="name" x="51.0" y="816.0" font-size="20.0" fill="rgb(161,217,247)">C</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="203.1" y="809.0" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(234,68,62)" transform="rotate(90 203.1 809.0)">»</text></g>
-    <text class="pct" x="13.0" y="840.5" font-size="15.0" fill="rgb(226,231,233)">1.69%</text>
-    <text class="phrase" x="13.0" y="861.1" font-size="14.0" fill="rgb(188,215,230)">Cada um tem a sua vez, e a</text>
-    <text class="phrase" x="13.0" y="879.3" font-size="14.0" fill="rgb(188,215,230)">dela passou.</text>
+    <rect class="tile" x="3.0" y="784.4" width="225.1" height="175.6" fill="rgb(9,26,36)"/>
+    <g transform="translate(13.0 794.4) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M19.563 22A5.57 5.57 0 0 1 14 16.437v-2.873A5.57 5.57 0 0 1 19.563 8H24V2h-4.437A11.563 11.563 0 0 0 8 13.563v2.873A11.564 11.564 0 0 0 19.563 28H24v-6Z"/></svg></g>
+    <text class="name" x="51.0" y="816.4" font-size="20.0" fill="rgb(161,217,247)">C</text>
+    <g class="trend trend-falling"><title>Falling in ranking</title><text x="203.1" y="809.4" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(234,68,62)" transform="rotate(90 203.1 809.4)">»</text></g>
+    <text class="pct" x="13.0" y="840.9" font-size="15.0" fill="rgb(226,231,233)">1.69%</text>
+    <text class="phrase" x="13.0" y="861.5" font-size="14.0" fill="rgb(188,215,230)">Cada um tem a sua vez, e a</text>
+    <text class="phrase" x="13.0" y="879.7" font-size="14.0" fill="rgb(188,215,230)">dela passou.</text>
   </g>
   <g id="lang_shell">
-    <rect class="tile" x="234.1" y="784.0" width="222.9" height="176.0" fill="rgb(48,21,12)"/>
-    <g transform="translate(244.1 794.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 16 16" fill="rgba(0,245,255,0.95)"><path fill="#ff7043" d="M2 2a1 1 0 0 0-1 1v10c0 .554.446 1 1 1h12c.554 0 1-.446 1-1V3a1 1 0 0 0-1-1zm0 3h12v8H2zm1 2 2 2-2 2 1 1 3-3-3-3zm5 3.5V12h5v-1.5z"/></svg></g>
-    <text class="name" x="282.1" y="816.0" font-size="20.0" fill="rgb(247,181,161)">Shell</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="432.0" y="809.0" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(235,77,71)" transform="rotate(90 432.0 809.0)">»</text></g>
-    <text class="pct" x="244.1" y="840.5" font-size="15.0" fill="rgb(233,228,226)">1.63%</text>
-    <text class="phrase" x="244.1" y="861.1" font-size="14.0" fill="rgb(230,198,188)">Saiu de campo machucada.</text>
+    <rect class="tile" x="234.1" y="784.4" width="222.9" height="175.6" fill="rgb(48,21,12)"/>
+    <g transform="translate(244.1 794.4) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 16 16" fill="rgba(0,245,255,0.95)"><path fill="#ff7043" d="M2 2a1 1 0 0 0-1 1v10c0 .554.446 1 1 1h12c.554 0 1-.446 1-1V3a1 1 0 0 0-1-1zm0 3h12v8H2zm1 2 2 2-2 2 1 1 3-3-3-3zm5 3.5V12h5v-1.5z"/></svg></g>
+    <text class="name" x="282.1" y="816.4" font-size="20.0" fill="rgb(247,181,161)">Shell</text>
+    <g class="trend trend-falling"><title>Falling in ranking</title><text x="432.0" y="809.4" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(235,77,71)" transform="rotate(90 432.0 809.4)">»</text></g>
+    <text class="pct" x="244.1" y="840.9" font-size="15.0" fill="rgb(233,228,226)">1.62%</text>
+    <text class="phrase" x="244.1" y="861.5" font-size="14.0" fill="rgb(230,198,188)">Saiu de campo machucada.</text>
   </g>
   <g id="lang_zig">
-    <rect class="tile" x="463.0" y="668.0" width="434.0" height="110.0" fill="rgb(46,33,11)"/>
-    <g transform="translate(473.0 678.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#f9a825" d="M2 8h6v4H2zm8 0h12v4H10zm0 12h12v4H10zm14 0h2v4h-2zM8 20l-3 4H2V12h4v8zm14-8h-6l-6 8h6z"/><path fill="#f9a825" d="M16 20h-6l-6 8m12-16h6l6-8m2 4v16h-4V12h-2l3-4z"/></svg></g>
-    <text class="name" x="511.0" y="700.0" font-size="20.0" fill="rgb(247,214,161)">Zig</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="872.0" y="693.0" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(236,90,85)" transform="rotate(90 872.0 693.0)">»</text></g>
-    <text class="pct" x="473.0" y="724.5" font-size="15.0" fill="rgb(233,230,226)">1.11%</text>
-    <text class="phrase" x="473.0" y="745.1" font-size="14.0" fill="rgb(230,214,188)">O que é bom dura pouco.</text>
+    <rect class="tile" x="463.0" y="668.4" width="434.0" height="110.0" fill="rgb(46,33,11)"/>
+    <g transform="translate(473.0 678.4) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#f9a825" d="M2 8h6v4H2zm8 0h12v4H10zm0 12h12v4H10zm14 0h2v4h-2zM8 20l-3 4H2V12h4v8zm14-8h-6l-6 8h6z"/><path fill="#f9a825" d="M16 20h-6l-6 8m12-16h6l6-8m2 4v16h-4V12h-2l3-4z"/></svg></g>
+    <text class="name" x="511.0" y="700.4" font-size="20.0" fill="rgb(247,214,161)">Zig</text>
+    <g class="trend trend-falling"><title>Falling in ranking</title><text x="872.0" y="693.4" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(236,90,85)" transform="rotate(90 872.0 693.4)">»</text></g>
+    <text class="pct" x="473.0" y="724.9" font-size="15.0" fill="rgb(233,230,226)">1.11%</text>
+    <text class="phrase" x="473.0" y="745.5" font-size="14.0" fill="rgb(230,214,188)">O que é bom dura pouco.</text>
   </g>
   <g id="lang_html">
-    <rect class="tile" x="463.0" y="784.0" width="214.0" height="176.0" fill="rgb(41,21,10)"/>
-    <g transform="translate(473.0 794.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#e65100" d="m4 4 2 22 10 2 10-2 2-22Zm19.72 7H11.28l.29 3h11.86l-.802 9.335L15.99 25l-6.635-1.646L8.93 19h3.02l.19 2 3.86.77 3.84-.77.29-4H8.84L8 8h16Z"/></svg></g>
-    <text class="name" x="511.0" y="816.0" font-size="20.0" fill="rgb(247,191,161)">HTML</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="652.0" y="809.0" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(234,72,67)" transform="rotate(90 652.0 809.0)">»</text></g>
-    <text class="pct" x="473.0" y="840.5" font-size="15.0" fill="rgb(233,228,226)">0.90%</text>
-    <text class="phrase" x="473.0" y="861.1" font-size="14.0" fill="rgb(230,203,188)">Ficou démodé.</text>
+    <rect class="tile" x="463.0" y="784.4" width="214.0" height="175.6" fill="rgb(41,21,10)"/>
+    <g transform="translate(473.0 794.4) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#e65100" d="m4 4 2 22 10 2 10-2 2-22Zm19.72 7H11.28l.29 3h11.86l-.802 9.335L15.99 25l-6.635-1.646L8.93 19h3.02l.19 2 3.86.77 3.84-.77.29-4H8.84L8 8h16Z"/></svg></g>
+    <text class="name" x="511.0" y="816.4" font-size="20.0" fill="rgb(247,191,161)">HTML</text>
+    <g class="trend trend-falling"><title>Falling in ranking</title><text x="652.0" y="809.4" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(234,72,67)" transform="rotate(90 652.0 809.4)">»</text></g>
+    <text class="pct" x="473.0" y="840.9" font-size="15.0" fill="rgb(233,228,226)">0.90%</text>
+    <text class="phrase" x="473.0" y="861.5" font-size="14.0" fill="rgb(230,203,188)">Ficou démodé.</text>
   </g>
   <g id="lang_cmake">
-    <rect class="tile" x="683.0" y="784.0" width="214.0" height="176.0" fill="rgb(11,28,43)"/>
-    <g transform="translate(693.0 794.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#1e88e5" d="M11.94 2.984 2.928 21.017l9.875-8.47z"/><path fill="#e53935" d="m11.958 2.982.002.29 1.312 14.499-.002.006.023.26 7.363 2.978h.415l-.158-.31-.114-.228h-.001l-8.84-17.494z"/><path fill="#7cb342" d="m8.558 16.13-5.627 4.884h17.743v-.016z"/></svg></g>
-    <text class="name" x="731.0" y="816.0" font-size="20.0" fill="rgb(164,207,244)">CMake</text>
-    <g class="trend trend-steady"><title>Same ranking position</title><text x="872.0" y="809.0" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(226,230,233)" transform="rotate(0 872.0 809.0)">≈</text></g>
-    <text class="pct" x="693.0" y="840.5" font-size="15.0" fill="rgb(226,230,233)">0.59%</text>
-    <text class="phrase" x="693.0" y="861.1" font-size="14.0" fill="rgb(188,210,230)">Feliz com o que tem.</text>
+    <rect class="tile" x="683.0" y="784.4" width="214.0" height="175.6" fill="rgb(11,28,43)"/>
+    <g transform="translate(693.0 794.4) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#1e88e5" d="M11.94 2.984 2.928 21.017l9.875-8.47z"/><path fill="#e53935" d="m11.958 2.982.002.29 1.312 14.499-.002.006.023.26 7.363 2.978h.415l-.158-.31-.114-.228h-.001l-8.84-17.494z"/><path fill="#7cb342" d="m8.558 16.13-5.627 4.884h17.743v-.016z"/></svg></g>
+    <text class="name" x="731.0" y="816.4" font-size="20.0" fill="rgb(164,207,244)">CMake</text>
+    <g class="trend trend-steady"><title>Same ranking position</title><text x="872.0" y="809.4" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(226,230,233)" transform="rotate(0 872.0 809.4)">≈</text></g>
+    <text class="pct" x="693.0" y="840.9" font-size="15.0" fill="rgb(226,230,233)">0.59%</text>
+    <text class="phrase" x="693.0" y="861.5" font-size="14.0" fill="rgb(188,210,230)">Feliz com o que tem.</text>
   </g>
   <g id="lang_vim_script">
     <rect class="tile" x="3.0" y="966.0" width="216.2" height="184.1" fill="rgb(16,38,17)"/>
@@ -139,17 +139,17 @@
     <rect class="tile" x="445.2" y="966.0" width="224.1" height="110.0" fill="rgb(39,12,10)"/>
     <g transform="translate(455.2 976.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#f44336" d="M4 26h24v2H4zM28 4H7a1 1 0 0 0-1 1v13a4 4 0 0 0 4 4h10a4 4 0 0 0 4-4v-4h4a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2m0 8h-4V6h4Z"/></svg></g>
     <text class="name" x="493.2" y="998.0" font-size="20.0" fill="rgb(247,167,161)">Java</text>
-    <g class="trend trend-steady"><title>Same ranking position</title><text x="644.3" y="991.0" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(233,226,226)" transform="rotate(0 644.3 991.0)">≈</text></g>
+    <g class="trend trend-steady"><title>Same ranking position</title><text x="644.2" y="991.0" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(233,226,226)" transform="rotate(0 644.2 991.0)">≈</text></g>
     <text class="pct" x="455.2" y="1022.5" font-size="15.0" fill="rgb(233,226,226)">0.10%</text>
     <text class="phrase" x="455.2" y="1043.1" font-size="14.0" fill="rgb(230,191,188)">Pingo no i.</text>
   </g>
   <g id="lang_twig">
-    <rect class="tile" x="675.3" y="966.0" width="221.7" height="110.0" fill="rgb(25,37,12)"/>
-    <g transform="translate(685.3 976.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 50 50" fill="rgba(0,245,255,0.95)"><path fill="#8bc34a" d="M9.727 47.556c-.125-.223-.297-2.168-.183-2.087.034.025.171.267.304.537s.282.487.332.482c.123-.011.075-1.196-.1-2.454-.331-2.397-1.176-4.434-2.358-5.69-.2-.212-.344-.4-.319-.418.093-.067 1.327.842 1.842 1.358.293.293.735.825.981 1.182.328.474.465.618.51.533.078-.147-.21-9.903-.376-12.7-.074-1.256.063-1.023.61 1.034 1.064 4.007 1.858 7.922 2.342 11.55.086.637.173 1.173.195 1.19s.092.002.157-.033c.888-.484 1.524-.667 2.55-.736.727-.049.945.062.35.177-1.15.223-1.99 1.013-2.344 2.201-.315 1.061-.327 2.707-.024 3.435.152.365.037.425-1.067.56-.716.088-.977.095-1.202.037-.356-.093-1.118-.098-1.195-.009-.031.037-.243.066-.47.066-.38 0-.423-.017-.534-.215zm1.974-3.232c.152-.205.072-.412-.204-.522-.225-.091-.263-.089-.437.024-.21.137-.252.43-.08.554.18.13.607.096.72-.056zm1.248.085a.8.8 0 0 0 .214-.202c.241-.33-.352-.622-.745-.366-.406.264.08.785.531.568m2.288 3.094c-.033-.038.117-.387.334-.774.216-.388.411-.666.433-.619.07.153-.201 1.28-.33 1.373-.15.107-.354.116-.437.02m-7.036-.41c-.29-.344-.221-.434.14-.183.176.124.321.264.321.311 0 .164-.279.086-.46-.129zm8.649-.146c0-.053.102-.18.227-.282.25-.204.312-.113.143.208-.095.18-.37.235-.37.074m8.065-.827c-.243-.025-.48-.088-.527-.14-.11-.125-.114-3.044-.004-3.044.045 0 .132.15.193.331q.189.57.31.124c.094-.337.065-3.471-.039-4.296-.449-3.55-1.865-6.124-4.342-7.89-1.086-.774-2.653-1.437-4.047-1.712-.764-.15-.522-.224.598-.182 2.364.09 4.167.707 5.847 2.002a11 11 0 0 1 2.32 2.501c.453.682.64.854.64.584 0-.07.063-.882.139-1.805.679-8.26 2.396-15.1 4.984-19.86 1.86-3.422 5.108-6.817 7.885-8.244 1.397-.717 2.539-.988 4.02-.952.933.023 1.01.036 1.77.308a6.8 6.8 0 0 1 1.363.661c.612.407 1.309 1.004 1.234 1.058-.025.018-.342-.165-.704-.407-2.657-1.771-5.062-1.52-7.12.742-1.108 1.22-2.652 3.53-3.634 5.443-2.828 5.503-4.541 11.464-5.291 18.413-.163 1.509-.282 3.76-.195 3.703.032-.022.266-.52.518-1.108 1.597-3.723 3.578-6.428 5.79-7.908.672-.45 1.612-.904 1.714-.83.023.016-.17.22-.43.453-1.958 1.755-3.25 3.76-4.233 6.573-.938 2.68-1.366 5.588-1.369 9.299 0 1.742.189 4.385.367 5.102.125.505.08.546-.585.546-.55 0-2.306.138-3.417.27-.413.05-.816.04-1.608-.036-.58-.056-1.13-.119-1.219-.14-.164-.037-.18-.014-.198.302-.012.186-.1.203-.73.139m2.507-6.725c.294-.11.375-.22.375-.517 0-.63-1.309-.706-1.524-.088-.074.212.13.51.42.616.297.109.413.107.73-.011zm2.369-.052c.277-.222.318-.364.174-.611-.4-.69-1.755-.307-1.428.405.121.265.299.35.738.353.227.001.387-.044.516-.147m3.011 6.681c-.027-.05.088-.267.256-.483.879-1.135 1.22-1.545 1.285-1.545.039 0 .055.037.035.083l-.423.963c-.213.484-.445.925-.519.977-.169.122-.57.125-.634.005m2.446-.596c0-.12.853-.683.896-.59.018.04-.056.21-.166.377-.168.258-.238.304-.464.304-.164 0-.266-.035-.266-.09zm-13.04-.124c-.176-.159-.493-.656-.461-.725.018-.038.248.1.512.309s.456.405.428.438c-.076.088-.372.074-.479-.022"/></svg></g>
-    <text class="name" x="723.3" y="998.0" font-size="20.0" fill="rgb(206,230,178)">Twig</text>
+    <rect class="tile" x="675.2" y="966.0" width="221.8" height="110.0" fill="rgb(25,37,12)"/>
+    <g transform="translate(685.2 976.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 50 50" fill="rgba(0,245,255,0.95)"><path fill="#8bc34a" d="M9.727 47.556c-.125-.223-.297-2.168-.183-2.087.034.025.171.267.304.537s.282.487.332.482c.123-.011.075-1.196-.1-2.454-.331-2.397-1.176-4.434-2.358-5.69-.2-.212-.344-.4-.319-.418.093-.067 1.327.842 1.842 1.358.293.293.735.825.981 1.182.328.474.465.618.51.533.078-.147-.21-9.903-.376-12.7-.074-1.256.063-1.023.61 1.034 1.064 4.007 1.858 7.922 2.342 11.55.086.637.173 1.173.195 1.19s.092.002.157-.033c.888-.484 1.524-.667 2.55-.736.727-.049.945.062.35.177-1.15.223-1.99 1.013-2.344 2.201-.315 1.061-.327 2.707-.024 3.435.152.365.037.425-1.067.56-.716.088-.977.095-1.202.037-.356-.093-1.118-.098-1.195-.009-.031.037-.243.066-.47.066-.38 0-.423-.017-.534-.215zm1.974-3.232c.152-.205.072-.412-.204-.522-.225-.091-.263-.089-.437.024-.21.137-.252.43-.08.554.18.13.607.096.72-.056zm1.248.085a.8.8 0 0 0 .214-.202c.241-.33-.352-.622-.745-.366-.406.264.08.785.531.568m2.288 3.094c-.033-.038.117-.387.334-.774.216-.388.411-.666.433-.619.07.153-.201 1.28-.33 1.373-.15.107-.354.116-.437.02m-7.036-.41c-.29-.344-.221-.434.14-.183.176.124.321.264.321.311 0 .164-.279.086-.46-.129zm8.649-.146c0-.053.102-.18.227-.282.25-.204.312-.113.143.208-.095.18-.37.235-.37.074m8.065-.827c-.243-.025-.48-.088-.527-.14-.11-.125-.114-3.044-.004-3.044.045 0 .132.15.193.331q.189.57.31.124c.094-.337.065-3.471-.039-4.296-.449-3.55-1.865-6.124-4.342-7.89-1.086-.774-2.653-1.437-4.047-1.712-.764-.15-.522-.224.598-.182 2.364.09 4.167.707 5.847 2.002a11 11 0 0 1 2.32 2.501c.453.682.64.854.64.584 0-.07.063-.882.139-1.805.679-8.26 2.396-15.1 4.984-19.86 1.86-3.422 5.108-6.817 7.885-8.244 1.397-.717 2.539-.988 4.02-.952.933.023 1.01.036 1.77.308a6.8 6.8 0 0 1 1.363.661c.612.407 1.309 1.004 1.234 1.058-.025.018-.342-.165-.704-.407-2.657-1.771-5.062-1.52-7.12.742-1.108 1.22-2.652 3.53-3.634 5.443-2.828 5.503-4.541 11.464-5.291 18.413-.163 1.509-.282 3.76-.195 3.703.032-.022.266-.52.518-1.108 1.597-3.723 3.578-6.428 5.79-7.908.672-.45 1.612-.904 1.714-.83.023.016-.17.22-.43.453-1.958 1.755-3.25 3.76-4.233 6.573-.938 2.68-1.366 5.588-1.369 9.299 0 1.742.189 4.385.367 5.102.125.505.08.546-.585.546-.55 0-2.306.138-3.417.27-.413.05-.816.04-1.608-.036-.58-.056-1.13-.119-1.219-.14-.164-.037-.18-.014-.198.302-.012.186-.1.203-.73.139m2.507-6.725c.294-.11.375-.22.375-.517 0-.63-1.309-.706-1.524-.088-.074.212.13.51.42.616.297.109.413.107.73-.011zm2.369-.052c.277-.222.318-.364.174-.611-.4-.69-1.755-.307-1.428.405.121.265.299.35.738.353.227.001.387-.044.516-.147m3.011 6.681c-.027-.05.088-.267.256-.483.879-1.135 1.22-1.545 1.285-1.545.039 0 .055.037.035.083l-.423.963c-.213.484-.445.925-.519.977-.169.122-.57.125-.634.005m2.446-.596c0-.12.853-.683.896-.59.018.04-.056.21-.166.377-.168.258-.238.304-.464.304-.164 0-.266-.035-.266-.09zm-13.04-.124c-.176-.159-.493-.656-.461-.725.018-.038.248.1.512.309s.456.405.428.438c-.076.088-.372.074-.479-.022"/></svg></g>
+    <text class="name" x="723.2" y="998.0" font-size="20.0" fill="rgb(206,230,178)">Twig</text>
     <g class="trend trend-steady"><title>Same ranking position</title><text x="872.0" y="991.0" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(230,233,226)" transform="rotate(0 872.0 991.0)">≈</text></g>
-    <text class="pct" x="685.3" y="1022.5" font-size="15.0" fill="rgb(230,233,226)">0.09%</text>
-    <text class="phrase" x="685.3" y="1043.1" font-size="14.0" fill="rgb(211,230,188)">Passou pra dar um oi.</text>
+    <text class="pct" x="685.2" y="1022.5" font-size="15.0" fill="rgb(230,233,226)">0.09%</text>
+    <text class="phrase" x="685.2" y="1043.1" font-size="14.0" fill="rgb(211,230,188)">Passou pra dar um oi.</text>
   </g>
   <g id="lang_swift">
     <rect class="tile" x="445.2" y="1082.0" width="214.0" height="226.0" fill="rgb(38,17,10)"/>
