@@ -268,7 +268,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_qml"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">3.40%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">3.37%</text>
           </g>
         
 
@@ -360,7 +360,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_shell"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.62%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.66%</text>
           </g>
         
 
