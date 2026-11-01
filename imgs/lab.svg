@@ -176,7 +176,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_typescript"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">26.40%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">26.43%</text>
           </g>
         
 
@@ -199,7 +199,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_rust"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">20.32%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">20.30%</text>
           </g>
         
 
@@ -222,7 +222,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_c__"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">20.10%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">20.08%</text>
           </g>
         
 
@@ -245,7 +245,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_lua"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">18.48%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">18.51%</text>
           </g>
         
 
@@ -291,7 +291,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_css"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">2.25%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">2.24%</text>
           </g>
         
 
@@ -360,7 +360,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_shell"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.66%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.65%</text>
           </g>
         
 
@@ -429,7 +429,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_cmake"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.59%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.58%</text>
           </g>
         
 
