@@ -1,9 +1,9 @@
 {
   "langs": {
     "c": {
-      "rank": 8,
-      "previous_rank": 7,
-      "since_unix": 1793270606
+      "rank": 9,
+      "previous_rank": 8,
+      "since_unix": 1793620866
     },
     "c__": {
       "rank": 3,
@@ -71,9 +71,9 @@
       "since_unix": 1793270606
     },
     "shell": {
-      "rank": 9,
-      "previous_rank": 8,
-      "since_unix": 1793270606
+      "rank": 8,
+      "previous_rank": 9,
+      "since_unix": 1793620866
     },
     "swift": {
       "rank": 19,
