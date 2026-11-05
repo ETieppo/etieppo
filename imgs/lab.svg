@@ -176,7 +176,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_typescript"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">26.80%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">26.84%</text>
           </g>
         
 
@@ -199,7 +199,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_rust"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">20.15%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">20.19%</text>
           </g>
         
 
@@ -222,7 +222,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_c__"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">19.94%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">19.97%</text>
           </g>
         
 
@@ -245,7 +245,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_lua"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">18.52%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">18.39%</text>
           </g>
         
 
@@ -302,7 +302,7 @@
           <g id="bubbleBar_glsl">
             <rect x="-14" y="10" width="28" height="4" rx="2"
                   fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="0" height="4" rx="2"
+            <rect x="-14" y="10" width="1" height="4" rx="2"
                   fill="rgba(0,245,255,0.95)"/>
           </g>
 
@@ -337,7 +337,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_c"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.67%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.68%</text>
           </g>
         
 
