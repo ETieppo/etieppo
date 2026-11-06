@@ -6,9 +6,9 @@
       "since_unix": 1793705964
     },
     "c__": {
-      "rank": 3,
-      "previous_rank": 2,
-      "since_unix": 1793270606
+      "rank": 4,
+      "previous_rank": 3,
+      "since_unix": 1793965841
     },
     "cmake": {
       "rank": 12,
@@ -46,9 +46,9 @@
       "since_unix": 1792609435
     },
     "lua": {
-      "rank": 4,
-      "previous_rank": 3,
-      "since_unix": 1793007983
+      "rank": 2,
+      "previous_rank": 4,
+      "since_unix": 1793965841
     },
     "makefile": {
       "rank": 20,
@@ -66,9 +66,9 @@
       "since_unix": 1792831267
     },
     "rust": {
-      "rank": 2,
-      "previous_rank": 1,
-      "since_unix": 1793270606
+      "rank": 3,
+      "previous_rank": 2,
+      "since_unix": 1793965841
     },
     "shell": {
       "rank": 9,
