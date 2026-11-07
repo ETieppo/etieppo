@@ -176,30 +176,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_typescript"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">24.76%</text>
-          </g>
-        
-
-          <g id="icon_lua">
-            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#42a5f5" d="M30 6a3.86 3.86 0 0 1-1.167 2.833 4.024 4.024 0 0 1-5.666 0A3.86 3.86 0 0 1 22 6a3.86 3.86 0 0 1 1.167-2.833 4.024 4.024 0 0 1 5.666 0A3.86 3.86 0 0 1 30 6m-9.208 5.208A10.6 10.6 0 0 0 13 8a10.6 10.6 0 0 0-7.792 3.208A10.6 10.6 0 0 0 2 19a10.6 10.6 0 0 0 3.208 7.792A10.6 10.6 0 0 0 13 30a10.6 10.6 0 0 0 7.792-3.208A10.6 10.6 0 0 0 24 19a10.6 10.6 0 0 0-3.208-7.792m-1.959 7.625a4.024 4.024 0 0 1-5.666 0 4.024 4.024 0 0 1 0-5.666 4.024 4.024 0 0 1 5.666 0 4.024 4.024 0 0 1 0 5.666"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_lua">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="6" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_lua">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_lua"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_lua"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">22.24%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">24.42%</text>
           </g>
         
 
@@ -222,7 +199,30 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_rust"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">21.10%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">22.23%</text>
+          </g>
+        
+
+          <g id="icon_lua">
+            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#42a5f5" d="M30 6a3.86 3.86 0 0 1-1.167 2.833 4.024 4.024 0 0 1-5.666 0A3.86 3.86 0 0 1 22 6a3.86 3.86 0 0 1 1.167-2.833 4.024 4.024 0 0 1 5.666 0A3.86 3.86 0 0 1 30 6m-9.208 5.208A10.6 10.6 0 0 0 13 8a10.6 10.6 0 0 0-7.792 3.208A10.6 10.6 0 0 0 2 19a10.6 10.6 0 0 0 3.208 7.792A10.6 10.6 0 0 0 13 30a10.6 10.6 0 0 0 7.792-3.208A10.6 10.6 0 0 0 24 19a10.6 10.6 0 0 0-3.208-7.792m-1.959 7.625a4.024 4.024 0 0 1-5.666 0 4.024 4.024 0 0 1 0-5.666 4.024 4.024 0 0 1 5.666 0 4.024 4.024 0 0 1 0 5.666"/></svg></g>
+          </g>
+
+          <g id="bubbleBar_lua">
+            <rect x="-14" y="10" width="28" height="4" rx="2"
+                  fill="rgba(0,245,255,0.25)"/>
+            <rect x="-14" y="10" width="6" height="4" rx="2"
+                  fill="rgba(0,245,255,0.95)"/>
+          </g>
+
+          <g id="bubble_lua">
+            <use href="#bubbleBase"/>
+            <g transform="translate(0,-6) scale(0.95)">
+              <use href="#icon_lua"/>
+            </g>
+            <g transform="translate(0,6)">
+              <use href="#bubbleBar_lua"/>
+            </g>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">21.93%</text>
           </g>
         
 
@@ -245,7 +245,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_c__"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">18.42%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">18.14%</text>
           </g>
         
 
@@ -268,7 +268,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_qml"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">3.08%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">3.03%</text>
           </g>
         
 
@@ -291,7 +291,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_css"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">2.06%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">2.03%</text>
           </g>
         
 
@@ -314,7 +314,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_glsl"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.65%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.62%</text>
           </g>
         
 
@@ -337,7 +337,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_c"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.55%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.52%</text>
           </g>
         
 
@@ -360,7 +360,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_shell"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.53%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.51%</text>
           </g>
         
 
@@ -383,7 +383,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_zig"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.01%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.00%</text>
           </g>
         
 
@@ -406,7 +406,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_html"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.82%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.81%</text>
           </g>
         
 
@@ -429,7 +429,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_cmake"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.54%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.53%</text>
           </g>
         
 
@@ -452,7 +452,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_vim_script"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.42%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.41%</text>
           </g>
         
 
@@ -684,7 +684,7 @@
 
           <g class="bubble">
             <g>
-              <use href="#bubble_lua"/>
+              <use href="#bubble_rust"/>
               <animateTransform attributeName="transform" type="scale"
                 values="0.90;1.16;1.16" keyTimes="0;0.2222;1"
                 dur="40.5s" repeatCount="indefinite" begin="1.5s"/>
@@ -701,7 +701,7 @@
 
           <g class="bubble">
             <g>
-              <use href="#bubble_rust"/>
+              <use href="#bubble_lua"/>
               <animateTransform attributeName="transform" type="scale"
                 values="0.86;1.10;1.10" keyTimes="0;0.2222;1"
                 dur="40.5s" repeatCount="indefinite" begin="3.0s"/>

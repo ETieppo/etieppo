@@ -46,9 +46,9 @@
       "since_unix": 1792609435
     },
     "lua": {
-      "rank": 2,
-      "previous_rank": 4,
-      "since_unix": 1793965841
+      "rank": 3,
+      "previous_rank": 2,
+      "since_unix": 1794048866
     },
     "makefile": {
       "rank": 20,
@@ -66,9 +66,9 @@
       "since_unix": 1792831267
     },
     "rust": {
-      "rank": 3,
-      "previous_rank": 2,
-      "since_unix": 1793965841
+      "rank": 2,
+      "previous_rank": 3,
+      "since_unix": 1794048866
     },
     "shell": {
       "rank": 9,
