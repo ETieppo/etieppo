@@ -1,9 +1,9 @@
 {
   "langs": {
     "c": {
-      "rank": 8,
-      "previous_rank": 9,
-      "since_unix": 1793705964
+      "rank": 9,
+      "previous_rank": 8,
+      "since_unix": 1794485654
     },
     "c__": {
       "rank": 4,
@@ -26,9 +26,9 @@
       "since_unix": 1792831267
     },
     "glsl": {
-      "rank": 7,
-      "previous_rank": 11,
-      "since_unix": 1793270606
+      "rank": 8,
+      "previous_rank": 7,
+      "since_unix": 1794485654
     },
     "html": {
       "rank": 11,
@@ -71,9 +71,9 @@
       "since_unix": 1794048866
     },
     "shell": {
-      "rank": 9,
-      "previous_rank": 8,
-      "since_unix": 1793705964
+      "rank": 7,
+      "previous_rank": 9,
+      "since_unix": 1794485654
     },
     "swift": {
       "rank": 19,
