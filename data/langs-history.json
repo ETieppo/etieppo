@@ -1,9 +1,9 @@
 {
   "langs": {
     "c": {
-      "rank": 9,
-      "previous_rank": 8,
-      "since_unix": 1794485654
+      "rank": 8,
+      "previous_rank": 9,
+      "since_unix": 1794919770
     },
     "c__": {
       "rank": 4,
@@ -16,9 +16,9 @@
       "since_unix": 1792607987
     },
     "css": {
-      "rank": 6,
-      "previous_rank": 5,
-      "since_unix": 1792831267
+      "rank": 9,
+      "previous_rank": 6,
+      "since_unix": 1794919770
     },
     "dart": {
       "rank": 14,
@@ -26,9 +26,9 @@
       "since_unix": 1792831267
     },
     "glsl": {
-      "rank": 8,
-      "previous_rank": 7,
-      "since_unix": 1794485654
+      "rank": 7,
+      "previous_rank": 8,
+      "since_unix": 1794919770
     },
     "html": {
       "rank": 11,
@@ -71,9 +71,9 @@
       "since_unix": 1794048866
     },
     "shell": {
-      "rank": 7,
-      "previous_rank": 9,
-      "since_unix": 1794485654
+      "rank": 6,
+      "previous_rank": 7,
+      "since_unix": 1794919770
     },
     "swift": {
       "rank": 19,

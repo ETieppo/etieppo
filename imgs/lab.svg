@@ -164,7 +164,7 @@
           <g id="bubbleBar_typescript">
             <rect x="-14" y="10" width="28" height="4" rx="2"
                   fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="7" height="4" rx="2"
+            <rect x="-14" y="10" width="8" height="4" rx="2"
                   fill="rgba(0,245,255,0.95)"/>
           </g>
 
@@ -176,7 +176,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_typescript"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">25.68%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">27.57%</text>
           </g>
         
 
@@ -199,7 +199,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_rust"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">22.40%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">22.01%</text>
           </g>
         
 
@@ -210,7 +210,7 @@
           <g id="bubbleBar_lua">
             <rect x="-14" y="10" width="28" height="4" rx="2"
                   fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="6" height="4" rx="2"
+            <rect x="-14" y="10" width="5" height="4" rx="2"
                   fill="rgba(0,245,255,0.95)"/>
           </g>
 
@@ -222,7 +222,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_lua"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">19.81%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">19.44%</text>
           </g>
         
 
@@ -245,7 +245,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_c__"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">18.34%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">18.01%</text>
           </g>
         
 
@@ -268,30 +268,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_qml"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">3.07%</text>
-          </g>
-        
-
-          <g id="icon_css">
-            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#7e57c2" d="M20 18h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 20 22h2v2h2v-2c0-.388-.562-.851-1.254-1.034C20.356 20.34 20 18.84 20 18m-3.254 2.966C14.356 20.34 14 18.84 14 18h-2v-2h-2v8h2v-2h4v2h2v-2c0-.388-.562-.851-1.254-1.034"/><path fill="#7e57c2" d="M24 4H4v20a4 4 0 0 0 4 4h16.16A3.84 3.84 0 0 0 28 24.16V8a4 4 0 0 0-4-4m2 14h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 26 22v2a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2Z"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_css">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="1" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_css">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_css"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_css"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">2.07%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">3.01%</text>
           </g>
         
 
@@ -314,7 +291,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_shell"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.86%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.82%</text>
           </g>
         
 
@@ -337,7 +314,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_glsl"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.64%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.61%</text>
           </g>
         
 
@@ -360,7 +337,30 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_c"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.54%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.51%</text>
+          </g>
+        
+
+          <g id="icon_css">
+            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#7e57c2" d="M20 18h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 20 22h2v2h2v-2c0-.388-.562-.851-1.254-1.034C20.356 20.34 20 18.84 20 18m-3.254 2.966C14.356 20.34 14 18.84 14 18h-2v-2h-2v8h2v-2h4v2h2v-2c0-.388-.562-.851-1.254-1.034"/><path fill="#7e57c2" d="M24 4H4v20a4 4 0 0 0 4 4h16.16A3.84 3.84 0 0 0 28 24.16V8a4 4 0 0 0-4-4m2 14h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 26 22v2a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2Z"/></svg></g>
+          </g>
+
+          <g id="bubbleBar_css">
+            <rect x="-14" y="10" width="28" height="4" rx="2"
+                  fill="rgba(0,245,255,0.25)"/>
+            <rect x="-14" y="10" width="0" height="4" rx="2"
+                  fill="rgba(0,245,255,0.95)"/>
+          </g>
+
+          <g id="bubble_css">
+            <use href="#bubbleBase"/>
+            <g transform="translate(0,-6) scale(0.95)">
+              <use href="#icon_css"/>
+            </g>
+            <g transform="translate(0,6)">
+              <use href="#bubbleBar_css"/>
+            </g>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.49%</text>
           </g>
         
 
@@ -383,7 +383,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_zig"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">1.01%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.99%</text>
           </g>
         
 
@@ -406,7 +406,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_html"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.82%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.80%</text>
           </g>
         
 
@@ -429,7 +429,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_cmake"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.53%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.52%</text>
           </g>
         
 
@@ -452,7 +452,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_vim_script"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.42%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.41%</text>
           </g>
         
 
@@ -475,7 +475,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_dart"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.38%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.37%</text>
           </g>
         
 
@@ -752,7 +752,7 @@
 
           <g class="bubble">
             <g>
-              <use href="#bubble_css"/>
+              <use href="#bubble_shell"/>
               <animateTransform attributeName="transform" type="scale"
                 values="0.91;1.08;1.08" keyTimes="0;0.2222;1"
                 dur="40.5s" repeatCount="indefinite" begin="7.5s"/>
@@ -769,7 +769,7 @@
 
           <g class="bubble">
             <g>
-              <use href="#bubble_shell"/>
+              <use href="#bubble_glsl"/>
               <animateTransform attributeName="transform" type="scale"
                 values="0.89;1.20;1.20" keyTimes="0;0.2222;1"
                 dur="40.5s" repeatCount="indefinite" begin="9.0s"/>
@@ -786,7 +786,7 @@
 
           <g class="bubble">
             <g>
-              <use href="#bubble_glsl"/>
+              <use href="#bubble_c"/>
               <animateTransform attributeName="transform" type="scale"
                 values="0.85;1.11;1.11" keyTimes="0;0.2222;1"
                 dur="40.5s" repeatCount="indefinite" begin="10.5s"/>
@@ -803,7 +803,7 @@
 
           <g class="bubble">
             <g>
-              <use href="#bubble_c"/>
+              <use href="#bubble_css"/>
               <animateTransform attributeName="transform" type="scale"
                 values="0.93;1.15;1.15" keyTimes="0;0.2222;1"
                 dur="40.5s" repeatCount="indefinite" begin="12.0s"/>
