@@ -6,9 +6,9 @@
       "since_unix": 1794919770
     },
     "c__": {
-      "rank": 4,
-      "previous_rank": 3,
-      "since_unix": 1793965841
+      "rank": 3,
+      "previous_rank": 4,
+      "since_unix": 1795091592
     },
     "cmake": {
       "rank": 12,
@@ -36,29 +36,34 @@
       "since_unix": 1793270606
     },
     "java": {
-      "rank": 17,
-      "previous_rank": 18,
-      "since_unix": 1792609435
+      "rank": 18,
+      "previous_rank": 17,
+      "since_unix": 1795091592
     },
     "kotlin": {
-      "rank": 21,
-      "previous_rank": 22,
-      "since_unix": 1792609435
+      "rank": 22,
+      "previous_rank": 21,
+      "since_unix": 1795091592
     },
     "lua": {
-      "rank": 3,
-      "previous_rank": 2,
-      "since_unix": 1794048866
+      "rank": 4,
+      "previous_rank": 3,
+      "since_unix": 1795091592
     },
     "makefile": {
-      "rank": 20,
-      "previous_rank": 21,
-      "since_unix": 1792609435
+      "rank": 21,
+      "previous_rank": 20,
+      "since_unix": 1795091592
     },
     "php": {
-      "rank": 16,
-      "previous_rank": 17,
-      "since_unix": 1792609435
+      "rank": 17,
+      "previous_rank": 16,
+      "since_unix": 1795091592
+    },
+    "python": {
+      "rank": 15,
+      "previous_rank": null,
+      "since_unix": 1795091592
     },
     "qml": {
       "rank": 5,
@@ -76,19 +81,19 @@
       "since_unix": 1794919770
     },
     "swift": {
-      "rank": 19,
-      "previous_rank": 20,
-      "since_unix": 1792609435
+      "rank": 20,
+      "previous_rank": 19,
+      "since_unix": 1795091592
     },
     "tree_sitter_query": {
-      "rank": 15,
-      "previous_rank": 16,
-      "since_unix": 1792609435
+      "rank": 16,
+      "previous_rank": 15,
+      "since_unix": 1795091592
     },
     "twig": {
-      "rank": 18,
-      "previous_rank": 19,
-      "since_unix": 1792609435
+      "rank": 19,
+      "previous_rank": 18,
+      "since_unix": 1795091592
     },
     "typescript": {
       "rank": 1,
