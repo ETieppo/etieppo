@@ -17,8 +17,8 @@
     <g transform="translate(481.7 13.0) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#ff7043" d="m30 12-4-2V6h-4l-2-4-4 2-4-2-2 4H6v4l-4 2 2 4-2 4 4 2v4h4l2 4 4-2 4 2 2-4h4v-4l4-2-2-4ZM6 16a9.9 9.9 0 0 1 .842-4H10v8H6.842A9.9 9.9 0 0 1 6 16m10 10a9.98 9.98 0 0 1-7.978-4H16v-2h-2v-2h4c.819.819.297 2.308 1.179 3.37a1.89 1.89 0 0 0 1.46.63h3.34A9.98 9.98 0 0 1 16 26m-2-12v-2h4a1 1 0 0 1 0 2Zm11.158 6H24a2.006 2.006 0 0 1-2-2 2 2 0 0 0-2-2 3 3 0 0 0 3-3q0-.08-.004-.161A3.115 3.115 0 0 0 19.83 10H8.022a9.986 9.986 0 0 1 17.136 10"/></svg></g>
     <text class="name" x="519.7" y="35.0" font-size="20.0" fill="rgb(247,181,161)">Rust</text>
     <g class="trend trend-steady"><title>Same ranking position</title><text x="872.0" y="28.0" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(233,228,226)" transform="rotate(0 872.0 28.0)">≈</text></g>
-    <text class="pct" x="481.7" y="59.5" font-size="15.0" fill="rgb(233,228,226)">22.26%</text>
-    <text class="phrase" x="481.7" y="80.1" font-size="14.0" fill="rgb(230,198,188)">Sem lado nessa briga.</text>
+    <text class="pct" x="481.7" y="59.5" font-size="15.0" fill="rgb(233,228,226)">22.25%</text>
+    <text class="phrase" x="481.7" y="80.1" font-size="14.0" fill="rgb(230,198,188)">O que os olhos não veem, o coração não sente.</text>
   </g>
   <g id="lang_c__">
     <rect class="tile" x="3.0" y="296.7" width="575.8" height="193.6" fill="rgb(9,27,36)"/>
@@ -42,7 +42,7 @@
     <text class="name" x="632.8" y="328.7" font-size="20.0" fill="rgb(174,234,181)">QML</text>
     <g class="trend trend-steady"><title>Same ranking position</title><text x="872.0" y="321.7" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(226,233,227)" transform="rotate(0 872.0 321.7)">≈</text></g>
     <text class="pct" x="594.8" y="353.2" font-size="15.0" fill="rgb(226,233,227)">4.35%</text>
-    <text class="phrase" x="594.8" y="373.7" font-size="14.0" fill="rgb(188,230,193)">Mais feliz que pinto no lixo.</text>
+    <text class="phrase" x="594.8" y="373.7" font-size="14.0" fill="rgb(188,230,193)">Ovo frito com arroz.</text>
   </g>
   <g id="lang_shell">
     <rect class="tile" x="584.8" y="517.4" width="312.2" height="172.2" fill="rgb(49,21,12)"/>
@@ -107,7 +107,7 @@
     <text class="name" x="51.0" y="1048.2" font-size="20.0" fill="rgb(182,226,184)">Vim Script</text>
     <g class="trend trend-steady"><title>Same ranking position</title><text x="203.8" y="1041.2" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(226,233,226)" transform="rotate(0 203.8 1041.2)">≈</text></g>
     <text class="pct" x="13.0" y="1072.7" font-size="15.0" fill="rgb(226,233,226)">0.41%</text>
-    <text class="phrase" x="13.0" y="1093.2" font-size="14.0" fill="rgb(190,228,192)">Merreca.</text>
+    <text class="phrase" x="13.0" y="1093.2" font-size="14.0" fill="rgb(190,228,192)">Invisível.</text>
   </g>
   <g id="lang_dart">
     <rect class="tile" x="234.8" y="1016.2" width="222.2" height="121.8" fill="rgb(10,32,42)"/>
@@ -115,7 +115,7 @@
     <text class="name" x="282.8" y="1048.2" font-size="20.0" fill="rgb(161,221,247)">Dart</text>
     <g class="trend trend-steady"><title>Same ranking position</title><text x="432.0" y="1041.2" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(226,231,233)" transform="rotate(0 432.0 1041.2)">≈</text></g>
     <text class="pct" x="244.8" y="1072.7" font-size="15.0" fill="rgb(226,231,233)">0.37%</text>
-    <text class="phrase" x="244.8" y="1093.2" font-size="14.0" fill="rgb(188,217,230)">Edição de bolso.</text>
+    <text class="phrase" x="244.8" y="1093.2" font-size="14.0" fill="rgb(188,217,230)">Pontinha na novela.</text>
   </g>
   <g id="lang_python">
     <rect class="tile" x="3.0" y="1144.0" width="214.0" height="226.0" fill="rgb(10,29,40)"/>
