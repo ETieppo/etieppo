@@ -176,7 +176,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_typescript"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">27.36%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">27.32%</text>
           </g>
         
 
@@ -199,30 +199,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_rust"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">22.25%</text>
-          </g>
-        
-
-          <g id="icon_c__">
-            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M28 14v-4h-2v4h-6v-4h-2v4h-4v2h4v4h2v-4h6v4h2v-4h4v-2z"/><path fill="#0288d1" d="M13.563 22A5.57 5.57 0 0 1 8 16.437v-2.873A5.57 5.57 0 0 1 13.563 8H18V2h-4.437A11.563 11.563 0 0 0 2 13.563v2.873A11.564 11.564 0 0 0 13.563 28H18v-6Z"/></svg></g>
-          </g>
-
-          <g id="bubbleBar_c__">
-            <rect x="-14" y="10" width="28" height="4" rx="2"
-                  fill="rgba(0,245,255,0.25)"/>
-            <rect x="-14" y="10" width="5" height="4" rx="2"
-                  fill="rgba(0,245,255,0.95)"/>
-          </g>
-
-          <g id="bubble_c__">
-            <use href="#bubbleBase"/>
-            <g transform="translate(0,-6) scale(0.95)">
-              <use href="#icon_c__"/>
-            </g>
-            <g transform="translate(0,6)">
-              <use href="#bubbleBar_c__"/>
-            </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">17.87%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">22.22%</text>
           </g>
         
 
@@ -245,7 +222,30 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_lua"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">17.82%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">17.93%</text>
+          </g>
+        
+
+          <g id="icon_c__">
+            <g transform="scale(0.82) translate(-12,-4)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M28 14v-4h-2v4h-6v-4h-2v4h-4v2h4v4h2v-4h6v4h2v-4h4v-2z"/><path fill="#0288d1" d="M13.563 22A5.57 5.57 0 0 1 8 16.437v-2.873A5.57 5.57 0 0 1 13.563 8H18V2h-4.437A11.563 11.563 0 0 0 2 13.563v2.873A11.564 11.564 0 0 0 13.563 28H18v-6Z"/></svg></g>
+          </g>
+
+          <g id="bubbleBar_c__">
+            <rect x="-14" y="10" width="28" height="4" rx="2"
+                  fill="rgba(0,245,255,0.25)"/>
+            <rect x="-14" y="10" width="5" height="4" rx="2"
+                  fill="rgba(0,245,255,0.95)"/>
+          </g>
+
+          <g id="bubble_c__">
+            <use href="#bubbleBase"/>
+            <g transform="translate(0,-6) scale(0.95)">
+              <use href="#icon_c__"/>
+            </g>
+            <g transform="translate(0,6)">
+              <use href="#bubbleBar_c__"/>
+            </g>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">17.85%</text>
           </g>
         
 
@@ -452,7 +452,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_vim_script"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.41%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">0.40%</text>
           </g>
         
 
@@ -724,7 +724,7 @@
 
           <g class="bubble">
             <g>
-              <use href="#bubble_c__"/>
+              <use href="#bubble_lua"/>
               <animateTransform attributeName="transform" type="scale"
                 values="0.86;1.10;1.10" keyTimes="0;0.2222;1"
                 dur="40.5s" repeatCount="indefinite" begin="3.0s"/>
@@ -741,7 +741,7 @@
 
           <g class="bubble">
             <g>
-              <use href="#bubble_lua"/>
+              <use href="#bubble_c__"/>
               <animateTransform attributeName="transform" type="scale"
                 values="0.92;1.18;1.18" keyTimes="0;0.2222;1"
                 dur="40.5s" repeatCount="indefinite" begin="4.5s"/>
