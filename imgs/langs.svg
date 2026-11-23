@@ -21,19 +21,19 @@
     <text class="phrase" x="481.7" y="80.1" font-size="14.0" fill="rgb(230,198,188)">O que os olhos não veem, o coração não sente.</text>
   </g>
   <g id="lang_lua">
-    <rect class="tile" x="3.0" y="296.5" width="576.1" height="193.8" fill="rgb(18,49,73)"/>
+    <rect class="tile" x="3.0" y="296.5" width="576.1" height="193.9" fill="rgb(18,49,73)"/>
     <g transform="translate(13.0 306.5) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#42a5f5" d="M30 6a3.86 3.86 0 0 1-1.167 2.833 4.024 4.024 0 0 1-5.666 0A3.86 3.86 0 0 1 22 6a3.86 3.86 0 0 1 1.167-2.833 4.024 4.024 0 0 1 5.666 0A3.86 3.86 0 0 1 30 6m-9.208 5.208A10.6 10.6 0 0 0 13 8a10.6 10.6 0 0 0-7.792 3.208A10.6 10.6 0 0 0 2 19a10.6 10.6 0 0 0 3.208 7.792A10.6 10.6 0 0 0 13 30a10.6 10.6 0 0 0 7.792-3.208A10.6 10.6 0 0 0 24 19a10.6 10.6 0 0 0-3.208-7.792m-1.959 7.625a4.024 4.024 0 0 1-5.666 0 4.024 4.024 0 0 1 0-5.666 4.024 4.024 0 0 1 5.666 0 4.024 4.024 0 0 1 0 5.666"/></svg></g>
     <text class="name" x="51.0" y="328.5" font-size="20.0" fill="rgb(161,209,247)">Lua</text>
     <g class="trend trend-rising"><title>Rising in ranking</title><text x="554.1" y="321.5" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(48,232,94)" transform="rotate(-90 554.1 321.5)">»</text></g>
-    <text class="pct" x="13.0" y="353.0" font-size="15.0" fill="rgb(226,230,233)">17.93%</text>
+    <text class="pct" x="13.0" y="353.0" font-size="15.0" fill="rgb(226,230,233)">17.94%</text>
     <text class="phrase" x="13.0" y="373.6" font-size="14.0" fill="rgb(188,211,230)">O motor esquentou.</text>
   </g>
   <g id="lang_c__">
-    <rect class="tile" x="3.0" y="496.3" width="576.1" height="193.5" fill="rgb(9,27,36)"/>
-    <g transform="translate(13.0 506.3) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M28 14v-4h-2v4h-6v-4h-2v4h-4v2h4v4h2v-4h6v4h2v-4h4v-2z"/><path fill="#0288d1" d="M13.563 22A5.57 5.57 0 0 1 8 16.437v-2.873A5.57 5.57 0 0 1 13.563 8H18V2h-4.437A11.563 11.563 0 0 0 2 13.563v2.873A11.564 11.564 0 0 0 13.563 28H18v-6Z"/></svg></g>
-    <text class="name" x="51.0" y="528.3" font-size="20.0" fill="rgb(161,217,247)">C++</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="554.1" y="521.3" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(234,68,62)" transform="rotate(90 554.1 521.3)">»</text></g>
-    <text class="pct" x="13.0" y="552.8" font-size="15.0" fill="rgb(226,231,233)">17.85%</text>
+    <rect class="tile" x="3.0" y="496.4" width="576.1" height="193.4" fill="rgb(9,27,36)"/>
+    <g transform="translate(13.0 506.4) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M28 14v-4h-2v4h-6v-4h-2v4h-4v2h4v4h2v-4h6v4h2v-4h4v-2z"/><path fill="#0288d1" d="M13.563 22A5.57 5.57 0 0 1 8 16.437v-2.873A5.57 5.57 0 0 1 13.563 8H18V2h-4.437A11.563 11.563 0 0 0 2 13.563v2.873A11.564 11.564 0 0 0 13.563 28H18v-6Z"/></svg></g>
+    <text class="name" x="51.0" y="528.4" font-size="20.0" fill="rgb(161,217,247)">C++</text>
+    <g class="trend trend-falling"><title>Falling in ranking</title><text x="554.1" y="521.4" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(234,68,62)" transform="rotate(90 554.1 521.4)">»</text></g>
+    <text class="pct" x="13.0" y="552.9" font-size="15.0" fill="rgb(226,231,233)">17.84%</text>
     <text class="phrase" x="13.0" y="573.4" font-size="14.0" fill="rgb(188,215,230)">Perdeu o lugar na janela.</text>
   </g>
   <g id="lang_qml">
