@@ -48,34 +48,34 @@
     <rect class="tile" x="585.1" y="517.4" width="311.9" height="172.4" fill="rgb(49,21,12)"/>
     <g transform="translate(595.1 527.4) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 16 16" fill="rgba(0,245,255,0.95)"><path fill="#ff7043" d="M2 2a1 1 0 0 0-1 1v10c0 .554.446 1 1 1h12c.554 0 1-.446 1-1V3a1 1 0 0 0-1-1zm0 3h12v8H2zm1 2 2 2-2 2 1 1 3-3-3-3zm5 3.5V12h5v-1.5z"/></svg></g>
     <text class="name" x="633.1" y="549.4" font-size="20.0" fill="rgb(247,181,161)">Shell</text>
-    <g class="trend trend-rising"><title>Rising in ranking</title><text x="872.0" y="542.4" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(48,232,94)" transform="rotate(-90 872.0 542.4)">»</text></g>
+    <g class="trend trend-steady"><title>Same ranking position</title><text x="872.0" y="542.4" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(233,228,226)" transform="rotate(0 872.0 542.4)">≈</text></g>
     <text class="pct" x="595.1" y="573.9" font-size="15.0" fill="rgb(233,228,226)">2.12%</text>
-    <text class="phrase" x="595.1" y="594.4" font-size="14.0" fill="rgb(230,198,188)">Ganhou corpo.</text>
+    <text class="phrase" x="595.1" y="594.4" font-size="14.0" fill="rgb(230,198,188)">No meio do caminho tinha uma pedra.</text>
   </g>
   <g id="lang_glsl">
     <rect class="tile" x="3.0" y="695.8" width="454.0" height="110.0" fill="rgb(23,9,25)"/>
     <g transform="translate(13.0 705.8) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 24 24" fill="rgba(0,245,255,0.95)"><path fill="#ab47bc" d="M10.469 17.102a4.083 4.083 0 1 1-8.166 0 4.083 4.083 0 0 1 8.166 0m5.069-9.666a4.083 4.083 0 1 0-5.446 3.296c3.13 1.231 3.867 2.474 3.475 5.828a4.083 4.083 0 1 0 5.446-3.295c-3.13-1.232-3.869-2.475-3.475-5.829"/></svg></g>
     <text class="name" x="51.0" y="727.8" font-size="20.0" fill="rgb(221,180,228)">GLSL</text>
-    <g class="trend trend-rising"><title>Rising in ranking</title><text x="432.0" y="720.8" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(48,232,94)" transform="rotate(-90 432.0 720.8)">»</text></g>
+    <g class="trend trend-steady"><title>Same ranking position</title><text x="432.0" y="720.8" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(232,226,233)" transform="rotate(0 432.0 720.8)">≈</text></g>
     <text class="pct" x="13.0" y="752.3" font-size="15.0" fill="rgb(232,226,233)">1.60%</text>
-    <text class="phrase" x="13.0" y="772.9" font-size="14.0" fill="rgb(224,188,230)">Tá ganhando terreno.</text>
+    <text class="phrase" x="13.0" y="772.9" font-size="14.0" fill="rgb(224,188,230)">Vão-se os anéis, ficam os dedos.</text>
   </g>
   <g id="lang_c">
     <rect class="tile" x="3.0" y="811.8" width="224.4" height="198.4" fill="rgb(9,26,35)"/>
     <g transform="translate(13.0 821.8) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#0288d1" d="M19.563 22A5.57 5.57 0 0 1 14 16.437v-2.873A5.57 5.57 0 0 1 19.563 8H24V2h-4.437A11.563 11.563 0 0 0 8 13.563v2.873A11.564 11.564 0 0 0 19.563 28H24v-6Z"/></svg></g>
     <text class="name" x="51.0" y="843.8" font-size="20.0" fill="rgb(161,217,247)">C</text>
-    <g class="trend trend-rising"><title>Rising in ranking</title><text x="202.4" y="836.8" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(48,232,94)" transform="rotate(-90 202.4 836.8)">»</text></g>
+    <g class="trend trend-steady"><title>Same ranking position</title><text x="202.4" y="836.8" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(226,231,233)" transform="rotate(0 202.4 836.8)">≈</text></g>
     <text class="pct" x="13.0" y="868.3" font-size="15.0" fill="rgb(226,231,233)">1.50%</text>
-    <text class="phrase" x="13.0" y="888.9" font-size="14.0" fill="rgb(188,215,230)">Foi lá e fez.</text>
+    <text class="phrase" x="13.0" y="888.9" font-size="14.0" fill="rgb(188,215,230)">Cada cabeça, uma sentença.</text>
   </g>
   <g id="lang_css">
     <rect class="tile" x="233.4" y="811.8" width="223.6" height="198.4" fill="rgb(15,9,25)"/>
     <g transform="translate(243.4 821.8) scale(1.2500)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 32 32" fill="rgba(0,245,255,0.95)"><path fill="#7e57c2" d="M20 18h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 20 22h2v2h2v-2c0-.388-.562-.851-1.254-1.034C20.356 20.34 20 18.84 20 18m-3.254 2.966C14.356 20.34 14 18.84 14 18h-2v-2h-2v8h2v-2h4v2h2v-2c0-.388-.562-.851-1.254-1.034"/><path fill="#7e57c2" d="M24 4H4v20a4 4 0 0 0 4 4h16.16A3.84 3.84 0 0 0 28 24.16V8a4 4 0 0 0-4-4m2 14h-2v-2h-2v2c0 .193 0 .703 1.254 1.033A3.345 3.345 0 0 1 26 22v2a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2 2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2 2 2 0 0 1 2-2h2a2 2 0 0 1 2 2Z"/></svg></g>
     <text class="name" x="281.4" y="843.8" font-size="20.0" fill="rgb(198,180,228)">CSS</text>
-    <g class="trend trend-falling"><title>Falling in ranking</title><text x="432.0" y="836.8" text-anchor="middle" dominant-baseline="central" font-size="30.0" fill="rgb(232,55,48)" transform="rotate(90 432.0 836.8)">»</text></g>
+    <g class="trend trend-steady"><title>Same ranking position</title><text x="432.0" y="836.8" text-anchor="middle" dominant-baseline="central" font-size="22.0" fill="rgb(228,226,233)" transform="rotate(0 432.0 836.8)">≈</text></g>
     <text class="pct" x="243.4" y="868.3" font-size="15.0" fill="rgb(228,226,233)">1.48%</text>
-    <text class="phrase" x="243.4" y="888.9" font-size="14.0" fill="rgb(204,188,230)">Entrou em promoção, sem</text>
-    <text class="phrase" x="243.4" y="907.1" font-size="14.0" fill="rgb(204,188,230)">querer.</text>
+    <text class="phrase" x="243.4" y="888.9" font-size="14.0" fill="rgb(204,188,230)">Não cutuque a onça com</text>
+    <text class="phrase" x="243.4" y="907.1" font-size="14.0" fill="rgb(204,188,230)">vara curta.</text>
   </g>
   <g id="lang_zig">
     <rect class="tile" x="463.0" y="695.8" width="434.0" height="110.0" fill="rgb(45,32,11)"/>
