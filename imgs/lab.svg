@@ -176,7 +176,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_typescript"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">27.32%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">27.29%</text>
           </g>
         
 
@@ -199,7 +199,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_rust"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">22.22%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">22.20%</text>
           </g>
         
 
@@ -222,7 +222,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_lua"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">17.94%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">18.03%</text>
           </g>
         
 
@@ -245,7 +245,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_c__"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">17.84%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">17.83%</text>
           </g>
         
 
@@ -268,7 +268,7 @@
             <g transform="translate(0,6)">
               <use href="#bubbleBar_qml"/>
             </g>
-            <text class="bubblePct" x="0" y="38" text-anchor="middle">4.35%</text>
+            <text class="bubblePct" x="0" y="38" text-anchor="middle">4.34%</text>
           </g>
         
 
